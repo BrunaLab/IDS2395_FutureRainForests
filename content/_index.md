@@ -2,6 +2,9 @@
 title: pages
 ---
 
+TEST 
+
+
 Tropical Rain Forests cover approximately 15% of the Earth’s land surface but contain over 50% of the world’s biodiversity. They are also the home to millions of people, the source of products central to our lives, shape global climate, and are being cleared at unprecedented rates. In this class we will investigate the same fundamental questions asked by scientists that study rain forests:
 
   * Why are we fascinated by rain forests?
