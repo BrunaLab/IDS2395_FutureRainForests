@@ -10,12 +10,12 @@ weight: 2
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-  * **General Educations Designations for IDS 2935 (Rain Forests)**  
+## **General Educations Designations for IDS 2935 (Rain Forests)**  
   
-    * **Primary GenEd Designation**: Biological Sciences  
+1. **Primary GenEd Designation**: Biological Sciences  
     
-    * **Secondary GenEd Designation (if seeking)**: International (N)  
+2. **Secondary GenEd Designation (if seeking)**: International (N)  
     
-      _A minimum grade of C is required for general education_  
+    _A minimum grade of C is required for general education_  
     
-    * **Writing designation**: No writing designation
+3. **Writing designation**: No writing designation
