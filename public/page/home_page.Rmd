@@ -1,0 +1,32 @@
+---
+title: "Class Time, Location, & Instructor"
+author: "Emilio M. Bruna"
+date: "7/9/2021"
+output: html_document
+weight: 1
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<!-- ![logo]("content/images/logo.png") -->
+
+# IDS 2095 - Fall 2021
+
+  * **Meeting Day, Time,& Location:**  
+      
+      Tuesday Period 4 (10:40 AM - 11:30 AM) in AND101 
+      
+      **AND**  
+      
+      Thursday Period 4-5 (10:40 AM - 12:35 PM) in WM 0202
+      
+  
+  
+
+  * **Instructor:**  
+  
+      Prof. Emilio M. Bruna  
+      
+      

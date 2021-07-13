@@ -1,0 +1,66 @@
+---
+title: "Course Meetings, Location, & Weekly Schedule"
+author: "Emilio M. Bruna"
+date: "7/9/2021"
+output: html_document
+draft: false
+subtitle: ""
+weight: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+# library(gridExtra)
+library(kableExtra)
+# library(egg)
+# library(magick)
+library(citr)
+```
+
+  * **Meeting Day, Time, & Location:**  
+      
+      Tuesday Period 4 (10:40 AM - 11:30 AM) in AND101 
+      
+      **AND**  
+      
+      Thursday Period 4-5 (10:40 AM - 12:35 PM) in WM 0202
+  
+      
+```{r course_calendar, echo=FALSE,message = FALSE,warning=FALSE}
+calendar <- read_csv("course_schedule_short.csv") %>% 
+  mutate(Week=paste(Week1,Week,sep=" ")) %>% 
+  select(-X1,-Week1) %>% 
+  replace_na(list(Week=""))
+
+calendar$Week <- gsub("NA NA","", calendar$Week)
+calendar$Week <- gsub("NA Final Exam","", calendar$Week)
+names(calendar) <- c("","","")
+
+
+
+
+kable(calendar,
+      # digits = 2,
+      align="ccl",
+      format="html",
+      row.names = FALSE,
+      escape= TRUE,
+      booktabs=T,
+      linesep = "",
+      ) %>% 
+  kable_paper(full_width = F) %>%
+  column_spec(1, bold = F, border_right = T) %>%
+  column_spec(2, width = "5em", background = "white",border_right = T) %>% 
+    pack_rows("WHY ARE WE FASCINATED BY TROPICAL RAIN FORESTS?", 1, 4) %>%
+  pack_rows("THE ORIGINS AND MAINTENANCE OF TROPICAL BIODIVERSITY", 5, 14) %>%
+  pack_rows("HUMANS & RAIN FORESTS", 15, 22) %>%
+  pack_rows("THE FUTURE OF TROPICAL RAIN FORESTS", 23, 30) %>%
+  pack_rows("Finals Week", 31, 31) %>%
+  kable_styling(bootstrap_options = c("hover"),
+                full_width = T,
+                latex_options="scale_down",
+                font_size = 14,
+                position = "center")
+
+```

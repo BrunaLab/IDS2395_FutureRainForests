@@ -1,0 +1,33 @@
+baseURL = "https://example.com"
+disablePathToLower = false
+languageCode = "en-us"
+title = "EB"
+theme = "docter"
+
+[params]
+  # the name of your project and a link back to the home page
+  home = "IDS 2935: The Future of Tropical Rain Forests"
+  # A small snippet of text above the sidebar:
+  # subtitle = ""
+
+  author = "Emilio M. Bruna"
+  author_url= "https://github.com/BrunaLab"
+
+  # Point readers to your repo and invite them to edit pages 
+  repo_host = "Github"
+  repo = "https://github.com/BrunaLab/IDS2935_website"
+
+  # Add a reference to a logo, which will appear in the top right
+  logourl = "./content/images/logo.png"
+  # logoalt = ""
+
+  # Mention your hosting provider 
+  # hosted_on = "hosting provider XYZ"
+  # hosted_on_url= "#"
+
+  # main sections
+  # change the main section to set the directory where the top articles are sourced
+  mainSections = ["pages"]
+
+  # brand color
+   brand_color = "#347C2C"

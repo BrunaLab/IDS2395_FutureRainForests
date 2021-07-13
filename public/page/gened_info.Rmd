@@ -1,0 +1,21 @@
+---
+title: "GenEd Info"
+author: "Emilio M. Bruna"
+date: "7/12/2021"
+output: html_document
+weight: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+  * **General Educations Designations for IDS 2935 (Rain Forests)**  
+  
+    * **Primary GenEd Designation**: Biological Sciences  
+    
+    * **Secondary GenEd Designation (if seeking)**: International (N)  
+    
+      _A minimum grade of C is required for general education_  
+    
+    * **Writing designation**: No writing designation

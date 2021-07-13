@@ -1,0 +1,14 @@
+baseURL: https://example.com
+disablePathToLower: yes
+languageCode: en-us
+title: "IDS 2935: The Future of tropical Rain Forests"
+theme: docter
+params:
+  author: Emilio Bruna
+  author_url: http://Brunalab.org 
+  home: docter
+  hosted_on: Github
+  hosted_on_url: '#'
+  mainSections: page
+  repo: https://gitlab.com/edavidaja/docter
+  repo_host: Github

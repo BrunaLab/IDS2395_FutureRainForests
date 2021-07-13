@@ -1,0 +1,27 @@
+---
+title: "Course Instructor & Contact Info"
+author: "Emilio M. Bruna"
+date: "7/12/2021"
+output: html_document
+weight: 4
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* **Instructor:**  
+  
+      Prof. Emilio M. Bruna  
+
+Office Hours
+
+  Office location: 380 Grinter Hall  
+  Office hours: Location and Time TBA (and by appointment)  
+
+Phone: (352) 846-0634
+
+email: embruna@ufl.edu
+
+Twitter
+
