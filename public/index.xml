@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pages on EB</title>
-    <link>https://example.com/</link>
-    <description>Recent content in pages on EB</description>
+    <title>pages on IDS2935</title>
+    <link>https://focused-torvalds-7cfd03.netlify.app/</link>
+    <description>Recent content in pages on IDS2935</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://focused-torvalds-7cfd03.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Course Overview</title>
-      <link>https://example.com/page/course_overview/</link>
+      <link>https://focused-torvalds-7cfd03.netlify.app/page/course_overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/page/course_overview/</guid>
+      <guid>https://focused-torvalds-7cfd03.netlify.app/page/course_overview/</guid>
       <description>IDS 2095 - The Future of Rain Forests - Fall 2021 Tropical Rain Forests cover approximately 15% of the Earth’s land surface but contain over 50% of the world’s biodiversity. They are also the home to millions of people, the source of products central to our lives, shape global climate, and are being cleared at unprecedented rates. In this class we will investigate the same fundamental questions asked by scientists that study rain forests:</description>
     </item>
     
     <item>
       <title>GenEd Info</title>
-      <link>https://example.com/page/gened_info/</link>
+      <link>https://focused-torvalds-7cfd03.netlify.app/page/gened_info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/page/gened_info/</guid>
+      <guid>https://focused-torvalds-7cfd03.netlify.app/page/gened_info/</guid>
       <description>  General Educations Designations for IDS 2935 (Rain Forests) Primary GenEd Designation: Biological Sciences
  Secondary GenEd Designation (if seeking): International (N)
 A minimum grade of C is required for general education
@@ -31,10 +31,10 @@ A minimum grade of C is required for general education
     
     <item>
       <title>Course Meetings, Location, &amp; Weekly Schedule</title>
-      <link>https://example.com/page/course_schedule/</link>
+      <link>https://focused-torvalds-7cfd03.netlify.app/page/course_schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/page/course_schedule/</guid>
+      <guid>https://focused-torvalds-7cfd03.netlify.app/page/course_schedule/</guid>
       <description>Meeting Day, Time, &amp;amp; Location:
 Tuesday Period 4 (10:40 AM - 11:30 AM) in AND101
 AND
@@ -44,10 +44,10 @@ Thursday Period 4-5 (10:40 AM - 12:35 PM) in WM 0202
     
     <item>
       <title>Course Instructor &amp; Contact Info</title>
-      <link>https://example.com/page/contact_info/</link>
+      <link>https://focused-torvalds-7cfd03.netlify.app/page/contact_info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/page/contact_info/</guid>
+      <guid>https://focused-torvalds-7cfd03.netlify.app/page/contact_info/</guid>
       <description>Instructor:
 Prof. Emilio M. Bruna   Office Hours
 Office location: 380 Grinter Hall
@@ -59,10 +59,10 @@ Twitter</description>
     
     <item>
       <title>Complete Syllabus</title>
-      <link>https://example.com/page/syllabus/</link>
+      <link>https://focused-torvalds-7cfd03.netlify.app/page/syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/page/syllabus/</guid>
+      <guid>https://focused-torvalds-7cfd03.netlify.app/page/syllabus/</guid>
       <description>IDS 2935 The Future of Tropical Rain Forests (Quest 2)  Fall 2021 I. Course Information  Meeting Day, Time,&amp;amp; Location:
 Tuesday Period 4 (10:40 AM - 11:30 AM) in AND101 AND
 Thursday Period 4-5 (10:40 AM - 12:35 PM) in WM 0202
@@ -75,10 +75,10 @@ Phone: (352) 846-0634 email: embruna@ufl.edu</description>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://example.com/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://focused-torvalds-7cfd03.netlify.app/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://focused-torvalds-7cfd03.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
@@ -86,38 +86,38 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://example.com/post/markdown-syntax/</link>
+      <link>https://focused-torvalds-7cfd03.netlify.app/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/markdown-syntax/</guid>
+      <guid>https://focused-torvalds-7cfd03.netlify.app/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://example.com/post/rich-content/</link>
+      <link>https://focused-torvalds-7cfd03.netlify.app/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/rich-content/</guid>
+      <guid>https://focused-torvalds-7cfd03.netlify.app/post/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/post/placeholder-text/</link>
+      <link>https://focused-torvalds-7cfd03.netlify.app/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/placeholder-text/</guid>
+      <guid>https://focused-torvalds-7cfd03.netlify.app/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://example.com/post/emoji-support/</link>
+      <link>https://focused-torvalds-7cfd03.netlify.app/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/emoji-support/</guid>
+      <guid>https://focused-torvalds-7cfd03.netlify.app/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     

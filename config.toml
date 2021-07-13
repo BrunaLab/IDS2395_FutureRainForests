@@ -1,14 +1,14 @@
-baseURL = "https://example.com"
+baseURL = "https://focused-torvalds-7cfd03.netlify.app/"
 disablePathToLower = false
 languageCode = "en-us"
-title = "EB"
+title = "IDS2935"
 theme = "docter"
 
 [params]
   # the name of your project and a link back to the home page
-  home = "IDS 2935: The Future of Tropical Rain Forests"
+  home = "The Future of Tropical Rain Forests"
   # A small snippet of text above the sidebar:
-  # subtitle = ""
+  subtitle = "IDS 2935 - Quest 2"
 
   author = "Emilio M. Bruna"
   author_url= "https://github.com/BrunaLab"
@@ -27,7 +27,7 @@ theme = "docter"
 
   # main sections
   # change the main section to set the directory where the top articles are sourced
-  mainSections = ["pages"]
+  mainSections = ["posts"]
 
   # brand color
    brand_color = "#347C2C"
