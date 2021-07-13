@@ -1,0 +1,20 @@
+---
+title: "sl_outcomes"
+author: "Emilio M. Bruna"
+date: "7/13/2021"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+# library(gridExtra)
+library(kableExtra)
+# library(egg)
+# library(magick)
+library(citr)
+```
+
+```{r course_calendar, echo=FALSE,message = FALSE,warning=FALSE}
+sl_outcomes <- read_csv("biosci_quest2_student_learning_outcomes.csv")
+
+```
