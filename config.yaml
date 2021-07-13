@@ -1,14 +1,14 @@
-baseURL: https://romantic-tereshkova-a7a199.netlify.app/
+baseURL: /
 disablePathToLower: yes
 languageCode: en-us
-title: "IDS 2935: The Future of tropical Rain Forests"
+title: "IDS 2935: The Future of Rain Forests"
 theme: docter
 params:
   author: Emilio Bruna
   author_url: http://Brunalab.org 
   home: docter
   hosted_on: Github
-  hosted_on_url: '#'
+  hosted_on_url: https://romantic-tereshkova-a7a199.netlify.app/
   mainSections: page
-  repo: https://gitlab.com/edavidaja/docter
+  repo: https://github.com/BrunaLab/IDS2395_website
   repo_host: Github
