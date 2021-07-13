@@ -12,7 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- ![logo]("content/images/logo.png") -->
 <!-- ## ![](/page/course_overview_files/logo.png){width=60px height=60px} **IDS 2095 - The Future of Rain Forests - Fall 2021** -->
-## **The Future of Rain Forests (IDS 2935 - Fall 2021 - Quest 2)**
+## The Future of Rain Forests
+## IDS 2935 - Fall 2021 - Quest 2)
 Tropical Rain Forests cover approximately 15% of the Earth’s land surface but contain over 50% of the world’s biodiversity. They are also the home to millions of people, the source of products central to our lives, shape global climate, and are being cleared at unprecedented rates. In this class we will investigate the same fundamental questions asked by scientists that study rain forests:
 
   * Why are we fascinated by rain forests?
