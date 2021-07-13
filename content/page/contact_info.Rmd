@@ -10,18 +10,18 @@ weight: 4
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-* **Instructor:**  
+### Instructor
   
-      Prof. Emilio M. Bruna  
+Prof. Emilio M. Bruna  
 
-Office Hours
+### Office Hours
 
-  Office location: 380 Grinter Hall  
-  Office hours: Location and Time TBA (and by appointment)  
+Office location: 380 Grinter Hall  
+Office hours: Location and Time TBA (and by appointment)  
 
-Phone: (352) 846-0634
+### Contact Professor Bruna
 
-email: embruna@ufl.edu
-
-Twitter
+Phone: (352) 846-0634  
+email: embruna@ufl.edu  
+Twitter  
 

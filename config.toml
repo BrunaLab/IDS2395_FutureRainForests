@@ -6,7 +6,7 @@ theme = "docter"
 
 [params]
   # the name of your project and a link back to the home page
-  home = "The Future of Tropical Rain Forests (IDS 2935 - Quest 2)"
+  home = "The Future of Rain Forests (IDS 2935 - Fall 2021 - Quest 2)"
   # A small snippet of text above the sidebar:
   # subtitle = ""
 
@@ -18,7 +18,7 @@ theme = "docter"
   repo = "https://github.com/BrunaLab/IDS2935_website"
 
   # Add a reference to a logo, which will appear in the top right
-  logourl = "./content/images/logo.png"
+  # logourl = "/images/brunalab_logo.png"
   # logoalt = ""
 
   # Mention your hosting provider 

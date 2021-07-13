@@ -7,8 +7,8 @@ params:
   author: Emilio Bruna
   author_url: http://Brunalab.org 
   home: docter
-  hosted_on: Github
-  hosted_on_url: https://romantic-tereshkova-a7a199.netlify.app/
+  hosted_on: Netlify
+  hosted_on_url: https://focused-torvalds-7cfd03.netlify.app/
   mainSections: page
   repo: https://github.com/BrunaLab/IDS2395_website
   repo_host: Github

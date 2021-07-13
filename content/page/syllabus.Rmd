@@ -5,8 +5,8 @@ date: "7/12/2021"
 output: html_document
 weight: 5
 ---
-## IDS 2935 The Future of Tropical Rain Forests (Quest 2)
-## Fall 2021
+# The Future of Rain Forests
+### IDS 2935 - Fall 2021 - Quest 2
 
 ### I. Course Information
 
