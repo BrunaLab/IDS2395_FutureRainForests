@@ -12,13 +12,13 @@
   </url><url>
     <loc>https://example.com/page/syllabus/</loc>
   </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
     <loc>https://example.com/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://example.com/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/plot/</loc>
@@ -82,5 +82,7 @@
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/page/</loc>
+  </url><url>
+    <loc>https://example.com/_index_original/</loc>
   </url>
 </urlset>

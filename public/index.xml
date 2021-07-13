@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pages on EB</title>
+    <title>EB</title>
     <link>https://example.com/</link>
-    <description>Recent content in pages on EB</description>
+    <description>Recent content on EB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
@@ -119,6 +119,17 @@ pectora summo.&lt;/p&gt;</description>
       
       <guid>https://example.com/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>pages</title>
+      <link>https://example.com/_index_original/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/_index_original/</guid>
+      <description>TEST
+Tropical Rain Forests cover approximately 15% of the Earth’s land surface but contain over 50% of the world’s biodiversity. They are also the home to millions of people, the source of products central to our lives, shape global climate, and are being cleared at unprecedented rates. In this class we will investigate the same fundamental questions asked by scientists that study rain forests:
+ Why are we fascinated by rain forests?</description>
     </item>
     
   </channel>
