@@ -6,9 +6,9 @@ theme = "docter"
 
 [params]
   # the name of your project and a link back to the home page
-  home = "The Future of Tropical Rain Forests"
+  home = "The Future of Tropical Rain Forests (IDS 2935 - Quest 2)"
   # A small snippet of text above the sidebar:
-  subtitle = "IDS 2935 - Quest 2"
+  # subtitle = ""
 
   author = "Emilio M. Bruna"
   author_url= "https://github.com/BrunaLab"
