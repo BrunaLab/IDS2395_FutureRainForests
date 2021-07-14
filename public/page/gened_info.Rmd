@@ -19,3 +19,5 @@ knitr::opts_chunk$set(echo = TRUE)
     _A minimum grade of C is required for general education_  
     
 3. **Writing designation**: No writing designation
+
+![Photo by [Chris Curry.](https://unsplash.com/photos/mKaR_KpTh6o)](/page/course_overview_files/chris-curry-mKaR_KpTh6o-unsplash.jpeg){width=320px height=400px}

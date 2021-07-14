@@ -1,5 +1,5 @@
 ---
-title: "sl_outcomes"
+title: "biosci & Quest 2 SLOs"
 author: "Emilio M. Bruna"
 date: "7/13/2021"
 output: html_document
@@ -14,7 +14,30 @@ library(kableExtra)
 library(citr)
 ```
 
-```{r course_calendar, echo=FALSE,message = FALSE,warning=FALSE}
-sl_outcomes <- read_csv("biosci_quest2_student_learning_outcomes.csv")
+```{r slo1, echo=FALSE,message = FALSE,warning=FALSE}
+sl_outcomes <- read_csv("biosci_quest_sl_outs.csv") 
+
+kable(sl_outcomes,
+      # digits = 2,
+      align="l",
+      format="html",
+      row.names = FALSE,
+      escape= TRUE,
+      booktabs=T,
+      linesep = "",
+      ) %>% 
+  kable_paper(full_width = F) %>%
+  # column_spec(1, bold = F, border_right = T) %>%
+  # column_spec(2, width = "5em", background = "white",border_right = T) %>% 
+  #   pack_rows("WHY ARE WE FASCINATED BY TROPICAL RAIN FORESTS?", 1, 4) %>%
+  # pack_rows("THE ORIGINS AND MAINTENANCE OF TROPICAL BIODIVERSITY", 5, 14) %>%
+  # pack_rows("HUMANS & RAIN FORESTS", 15, 22) %>%
+  # pack_rows("THE FUTURE OF TROPICAL RAIN FORESTS", 23, 30) %>%
+  # pack_rows("Finals Week", 31, 31) %>%
+  kable_styling(bootstrap_options = c("hover"),
+                full_width = T,
+                latex_options="scale_down",
+                font_size = 14,
+                position = "left")
 
 ```
