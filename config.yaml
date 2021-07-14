@@ -6,9 +6,9 @@ theme: docter
 params:
   author: Emilio Bruna
   author_url: http://Brunalab.org 
-  home: docter
+  home: https://github.com/embruna
   hosted_on: Netlify
   hosted_on_url: https://focused-torvalds-7cfd03.netlify.app/
   mainSections: page
-  repo: https://github.com/BrunaLab/IDS2395_website
+  repo: https://github.com/BrunaLab/IDS2395_website/
   repo_host: Github
