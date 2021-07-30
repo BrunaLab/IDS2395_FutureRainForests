@@ -13,8 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## The Future of Rain Forests | IDS 2935 | Fall 2021
 
-![Wet Dirt Roads (La Tigra, Honduras). Photo by [Michael Vilorio](https://unsplash.com/photos/KLUoR8k9Hl8)](/page/course_overview_files/michael-vilorio-KLUoR8k9Hl8-unsplash.jpeg){width=90% height=90%}
-
 <br></br>
 
 Tropical Rain Forests cover approximately 15% of the Earth’s land surface but contain over 50% of the world’s biodiversity. They are also the home to millions of people, the source of products central to our lives, shape global climate, and are being cleared at unprecedented rates. **In this class we will investigate the same fundamental questions asked by scientists that study rain forests:**
@@ -32,4 +30,7 @@ The course is taught in a non-traditional format: in-class sessions will be devo
 <br></br>
 
 **Welcome to the Jungle.**
+
+![Wet Dirt Roads (La Tigra, Honduras). Photo by [Michael Vilorio](https://unsplash.com/photos/KLUoR8k9Hl8)](/page/course_overview_files/michael-vilorio-KLUoR8k9Hl8-unsplash.jpeg){width=90% height=90%}
+
 
