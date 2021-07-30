@@ -15,11 +15,16 @@ weight: 5
       Thursday Period 4-5 (10:40 AM - 12:35 PM) in WM 0202
 
   * **Instructor:**  
-      Prof. Emilio M. Bruna  
-      Office location: 380 Grinter Hall  
-      Office hours: Location and Time TBA (and by appointment)  
-      Phone: (352) 846-0634
-      email: embruna@ufl.edu
+      + **Professor**: Emilio Bruna  
+      + **Office**: 380 Grinter Hall  
+      + **Phone**: (352) 846-0634
+      + **email:** embruna@ufl.edu
+      + **Office Hours: **
+          * *When*: Wednesday or Friday 10:30 am - 12 noon. If you can't make one of these sessions let me know and we will make an appointment 
+          * *Format*: In person (location below) or via Zoom (link on class canvas page). If come to the lab you get free tea or coffee. Good stuff, usually 4-5 kinds. And we have an espresso machine. Just sayin'.
+          * *Signup*: You can [sign up for an Office Hours appointment here](http://brunalab.org/teaching/office-hours/). You don't have to sign up for a specific time - you're welcome to just show up anytime during the schedule office hours. However, by signing up you can guarantee a specific time slot and avoid waiting in line. 
+          * *Location*: Tropical Ecology & Conservation Lab, 711 Newell Dr. [map and directions](http://brunalab.org/contact-find-us/) 
+
 
   * **GenEd Designations**  
   
