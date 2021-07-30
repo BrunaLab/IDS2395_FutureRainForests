@@ -1,9 +1,10 @@
 ---
-title: "Student Learning Outcomes: BioSci & Quest 2"
+title: "Student Learning Outcomes: International"
 author: "Emilio M. Bruna"
-date: "7/13/2021"
+date: "7/14/2021"
 output: html_document
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
@@ -15,10 +16,10 @@ library(citr)
 ```
 
 ```{r slo1, echo=FALSE,message = FALSE,warning=FALSE}
-sl_outcomes <- read_csv("biosci_quest_sl_outs.csv") %>% 
-  replace_na(list('Biological Sciences SLOs:'=""))
-
-kable(sl_outcomes,
+sl_outcomes_2 <- read_csv("secondary_outcomes.csv") %>% 
+  replace_na(list(X1="")) %>% 
+  rename("Competency"="X1")
+kable(sl_outcomes_2,
       # digits = 2,
       align="l",
       format="html",

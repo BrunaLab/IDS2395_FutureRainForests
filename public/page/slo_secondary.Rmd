@@ -1,9 +1,12 @@
 ---
-title: "Student Learning Outcomes: BioSci & Quest 2"
+title: "Student Learning Objectives: International"
 author: "Emilio M. Bruna"
-date: "7/13/2021"
+date: "7/14/2021"
 output: html_document
 ---
+
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
@@ -15,10 +18,10 @@ library(citr)
 ```
 
 ```{r slo1, echo=FALSE,message = FALSE,warning=FALSE}
-sl_outcomes <- read_csv("biosci_quest_sl_outs.csv") %>% 
-  replace_na(list('Biological Sciences SLOs:'=""))
+sl_objectives_2 <- read_csv("secondary_objectives.csv") %>% 
+  replace_na(list('Biological Sciences Objectives'="", 'This course’s Objectives (This course will…)'=""))
 
-kable(sl_outcomes,
+kable(sl_objectives_2,
       # digits = 2,
       align="l",
       format="html",
@@ -29,7 +32,7 @@ kable(sl_outcomes,
       ) %>% 
   kable_paper(full_width = F) %>%
   row_spec(0, bold = T, italic = F, color="darkgreen") %>% 
-  row_spec(1, bold = F, italic = T, color="darkgreen") %>% 
+  # row_spec(1, bold = F, italic = T, color="darkgreen") %>% 
   # column_spec(1, bold = F, border_right = T) %>%
   # column_spec(2, width = "5em", background = "white",border_right = T) %>% 
   #   pack_rows("WHY ARE WE FASCINATED BY TROPICAL RAIN FORESTS?", 1, 4) %>%
