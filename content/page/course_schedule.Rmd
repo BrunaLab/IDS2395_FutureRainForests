@@ -3,6 +3,7 @@ title: "Course Meetings, Location, & Weekly Schedule"
 author: "Emilio M. Bruna"
 date: "7/9/2021"
 output: html_document
+# output: pdf_document
 draft: false
 subtitle: ""
 weight: 3
@@ -32,18 +33,19 @@ Thursday Period 4-5 (10:40 AM - 12:35 PM) in WM 0202
 calendar <- read_csv("course_schedule_short.csv") %>% 
   mutate(Week=paste(Week1,Week,sep=" ")) %>% 
   select(-X1,-Week1) %>% 
-  replace_na(list(Week=""))
+  select(Week,Date,Topic) %>% 
+  replace_na(list(Date="",Week="", Topic="",`Read Before Class`="", `Watch Before Class`=""))
 
 calendar$Week <- gsub("NA NA","", calendar$Week)
 calendar$Week <- gsub("NA Final Exam","", calendar$Week)
-names(calendar) <- c("","","")
+# names(calendar) <- c("","","")
 
 
 
 
 kable(calendar,
       # digits = 2,
-      align="ccl",
+      align="cclll",
       format="html",
       row.names = FALSE,
       escape= TRUE,
