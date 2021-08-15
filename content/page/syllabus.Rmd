@@ -3,7 +3,7 @@ title: "Complete Syllabus"
 author: "Emilio M. Bruna"
 date: "7/12/2021"
 output: html_document
-weight: 5
+weight: 4
 ---
 # The Future of Rain Forests
 ### IDS 2935 - Fall 2021 - Quest 2
@@ -38,7 +38,8 @@ weight: 5
     
     Tropical Rain Forests cover approximately 15% of the Earth’s land surface but contain over 50% of the world’s biodiversity. They are also the home to millions of people, the source of products central to our lives, shape global climate, and are being cleared at unprecedented rates. Students in this class will investigate the same fundamental questions asked by scientists that study rain forests: Why are we fascinated by rain forests? How have stereotypes about them permeated everything from pop culture to international relations? What gave rise to their remarkable biodiversity? What are the drivers and consequences of deforestation? Is rain forest conservation compatible with socioeconomic development? 
     
-    Students will explore these questions by reading and discussing a research studies, gathering and analyzing multidisciplinary data, interviewing people engaged in forest-related activities, and by reflecting on the consequences for rain forests of our choices as consumers, scholars, and community members. The course is taught in a non-traditional format: in-class sessions will be devoted to activities ranging from conversations with journalists, scientists, and conservation practitioners based in tropical countries to gathering and analyzing data on deforestation to reading and discussing scientific studies. There might be a field trip to a museum or supermarket. There might even be an occasional lecture. Instead of readings from a textbook, most weeks we will read a scientific study or some texts intended for a general audience (e.g., newspaper articles, chapters from memoir). The assignments are designed to maximize personal reflection and creativity…and yes, you can actually get credit for watching movies such as Predator, Rio, and Apocalypse Now. Welcome to the Jungle!
+    Students will explore these questions by reading and discussing a research studies, gathering and analyzing multidisciplinary data, interviewing people engaged in forest-related activities, and by reflecting on the consequences for rain forests of our choices as consumers, scholars, and community members. The course is taught in a non-traditional format: in-class sessions will be devoted to activities ranging from conversations with journalists, scientists, and conservation practitioners based in tropical countries to gathering and analyzing data on deforestation to reading and discussing scientific studies. There might be a field trip to a museum or supermarket. There might even be an occasional lecture. Instead of readings from a textbook, most weeks we will read a scientific study or some texts intended for a general audience (e.g., newspaper articles, chapters from memoir). The assignments are designed to maximize personal reflection and creativity…and yes, you can actually get credit for watching movies such as Predator, Rio, and Apocalypse Now. 
+    
 
 * **Required & Recommended Course Materials**
 
@@ -83,7 +84,7 @@ weight: 5
 
 **5. Details of Experiential Learning Component**
 
-   This course has multiple experiential learning activities. Students will be taking a field trip to the FLMNH Butterfly Rainforest to investigate plant form and function and plant animal interactions. Students will also be keeping a log of all tropical products used during three 24-hour intervals. Finally, they will be gathering and analyzing data on deforestation, biodiversity in different tropical rain forest regions, and  for forest regeneration influences carbon stocks and climate change scenarios. 
+   This course has multiple experiential learning activities. Students will be taking a field trip to the FLMNH Butterfly Rain Forest to investigate plant form and function and plant-animal interactions. Students will also surveying tropical products in their homes and pantries. Finally, they will be gathering and analyzing data on deforestation, biodiversity in different tropical rain forest regions, and  for forest regeneration influences carbon stocks and climate change scenarios. 
 
 **6. Details of Self-Reflection Component**
     

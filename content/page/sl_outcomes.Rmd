@@ -3,6 +3,7 @@ title: "Student Learning Outcomes: BioSci & Quest 2"
 author: "Emilio M. Bruna"
 date: "7/13/2021"
 output: html_document
+weight: 7
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -11,7 +12,7 @@ library(tidyverse)
 library(kableExtra)
 # library(egg)
 # library(magick)
-library(citr)
+# library(citr)
 ```
 
 ```{r slo1, echo=FALSE,message = FALSE,warning=FALSE}

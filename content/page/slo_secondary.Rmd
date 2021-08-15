@@ -3,6 +3,7 @@ title: "Student Learning Objectives: International"
 author: "Emilio M. Bruna"
 date: "7/14/2021"
 output: html_document
+weight: 8
 ---
 
 
@@ -14,7 +15,7 @@ library(tidyverse)
 library(kableExtra)
 # library(egg)
 # library(magick)
-library(citr)
+# library(citr)
 ```
 
 ```{r slo1, echo=FALSE,message = FALSE,warning=FALSE}
