@@ -1,0 +1,85 @@
+---
+title: "Assignments"
+author: "Emilio M. Bruna"
+date: "`r format(Sys.time(), '%Y')`"
+web: www.BrunaLab.org
+github: embruna
+twitter: https://twitter.com/BrunaLab
+phone: (352) 514-3935
+email: embruna@ufl.edu
+geometry: margin=1in
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+site: bookdown::bookdown_site
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyfoot{}
+- \fancyhead[R]{Syllabus, p. \thepage}
+- \fancyhead[L]{IDS 2935 - Rain Forests (`r format(Sys.time(), '%Y')`)}
+- \usepackage[default]{sourcesanspro}
+- \usepackage{parskip}
+- \usepackage{xcolor}
+- \AtBeginDocument{\let\maketitle\relax}
+# - \usepackage{sectsty} \allsectionsfont{\raggedright}
+- \usepackage{sectsty} \sectionfont{\centering}
+- \usepackage{titlesec}
+- \titlespacing{\section}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsubsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+# header-includes:
+# - \usepackage{pdflscape}
+# - \newcommand{\blandscape}{\begin{landscape}}
+# - \newcommand{\elandscape}{\end{landscape}}
+output: pdf_document
+  # word_document: default
+#   html_document
+# weight: 5
+    # df_print: paged
+---
+
+```{r setup_assign, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+# library(gridExtra)
+library(kableExtra)
+# library(egg)
+# library(magick)
+# library(citr)
+```
+
+<!-- \blandscape -->
+<!-- \newpage -->
+
+```{r slo1, echo=FALSE,message = FALSE,warning=FALSE}
+assignments <- read_csv("./assignments.csv") 
+
+df2<- c("","","TOTAL",sum(assignments$Points))
+assignments <- rbind(assignments,df2)
+# landscape()
+# assignments[5, 3]<-cell_spec(assignments[6, 3], "latex",  align="c")
+kable(assignments,
+      # digits = 2,
+      # align="lllc",
+      format="latex",
+      row.names = FALSE,
+      escape= F,
+      booktabs=T,
+      linesep = "",
+      ) %>% 
+   kable_classic_2(full_width = T,
+                latex_options="scale_down",
+                font_size = 8,
+                position = "left") %>% 
+  column_spec(1, width = "10em") %>%
+  column_spec(2, width = "28em") %>%
+  column_spec(3, width = "15em") %>% 
+  column_spec(4, width = "3em") %>% 
+  row_spec(0,hline_after = T, bold=T) %>% 
+  row_spec(c(1:5),hline_after = T) %>% 
+  row_spec(6,bold=T) %>% 
+  add_indent(6)
+
+```
+\newpage

@@ -1,10 +1,46 @@
 ---
-title: "Complete Syllabus"
+title: 'Syllabus'
 author: "Emilio M. Bruna"
-date: "7/12/2021"
-output: html_document
-weight: 4
+date: "`r format(Sys.time(), '%Y')`"
+web: www.BrunaLab.org
+github: embruna
+twitter: https://twitter.com/BrunaLab
+phone: (352) 514-3935
+email: embruna@ufl.edu
+geometry: margin=1in
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+site: bookdown::bookdown_site
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyfoot{}
+- \fancyhead[R]{Syllabus, p. \thepage}
+- \fancyhead[L]{IDS 2935 (`r format(Sys.time(), '%Y')`)}
+- \usepackage[default]{sourcesanspro}
+- \usepackage{parskip}
+- \usepackage{xcolor}
+- \AtBeginDocument{\let\maketitle\relax}
+- \usepackage{sectsty} \allsectionsfont{\centering}
+- \usepackage{titlesec}
+- \titlespacing{\section}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsubsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+output: pdf_document
+  # word_document: default
+#   html_document
+weight: 5
+    # df_print: paged
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(kableExtra)
+library(tidyverse)
+```
+
 # The Future of Rain Forests
 ### IDS 2935 - Fall 2021 - Quest 2
 
@@ -16,13 +52,20 @@ weight: 4
 
   * **Instructor:**  
       + **Professor**: Emilio Bruna  
-      + **Office**: 380 Grinter Hall  
+      + **Office**: Tropical Ecology & Conservation Lab, 711 Newell Drive  
       + **Phone**: (352) 846-0634
       + **email:** embruna@ufl.edu
       + **Office Hours: **
           * *When*: Wednesday or Friday 10:30 am - 12 noon. If you can't make one of these sessions let me know and we will make an appointment 
-          * *Format*: In person (location below) or via Zoom (link on class canvas page). If come to the lab you get free tea or coffee. Good stuff, usually 4-5 kinds. And we have an espresso machine. Just sayin'.
-          * *Signup*: You can [sign up for an Office Hours appointment here](http://brunalab.org/teaching/office-hours/). You don't have to sign up for a specific time - you're welcome to just show up anytime during the schedule office hours. However, by signing up you can guarantee a specific time slot and avoid waiting in line. 
+          * *What*: Here are some of the reasons to visit during office hours:  
+              * Introduce yourself and grab a free tea or espresso from the lab kitchen
+              * Ask for clarification on assignments
+              * Discuss work we did in class to make sure you understood the key points
+              * Get feedback on ideas for class projects
+              * Ask questions about applying to graduate school 
+              * Ask for help arranging a study group
+              * (lots of other reasons)  
+          * *Format*: You can come to office hours in person (location below) or via Zoom (link on class canvas page). You can [sign up for an Office Hours appointment in advance here](http://brunalab.org/teaching/office-hours/). You don't have to sign up for a specific time, though - you're welcome to just show up during the office hours. Signing up just guarantees a specific time slot so you don't have to wait in line. 
           * *Location*: Tropical Ecology & Conservation Lab, 711 Newell Dr. [map and directions](http://brunalab.org/contact-find-us/) 
 
 
@@ -31,7 +74,7 @@ weight: 4
     * **Primary GenEd Designation**: Biological Sciences  
     * **Secondary GenEd Designation (if seeking)**: International (N)  
     
-      _A minimum grade of C is required for general education_  
+      _A minimum grade of C is required for general education credit_  
     * **Writing designation**: No writing designation
 
 * **Course Description**
@@ -53,7 +96,44 @@ weight: 4
 
 1. **List of Graded Work**
 
+
+
+```{r slo1, echo=FALSE,message = FALSE,warning=FALSE}
+assignments <- read_csv("./assignments.csv") 
+
+kable(assignments,
+      # digits = 2,
+      # align="lllc",
+      format="html",
+      row.names = FALSE,
+      escape= TRUE,
+      booktabs=T,
+      linesep = "",
+      ) %>% 
+  kable_paper(full_width = F) %>%
+  row_spec(0, bold = T, italic = F, color="darkgreen") %>% 
+  # row_spec(1, bold = F, italic = T, color="darkgreen") %>% 
+  # column_spec(1, bold = F, border_right = T) %>%
+  # column_spec(2, width = "5em", background = "white",border_right = T) %>% 
+  #   pack_rows("WHY ARE WE FASCINATED BY TROPICAL RAIN FORESTS?", 1, 4) %>%
+  # pack_rows("THE ORIGINS AND MAINTENANCE OF TROPICAL BIODIVERSITY", 5, 14) %>%
+  # pack_rows("HUMANS & RAIN FORESTS", 15, 22) %>%
+  # pack_rows("THE FUTURE OF TROPICAL RAIN FORESTS", 23, 30) %>%
+  # pack_rows("Finals Week", 31, 31) %>%
+  kable_styling(bootstrap_options = c("hover"),
+                full_width = T,
+                latex_options="scale_down",
+                font_size = 14,
+                position = "left")
+
+```
+
+
 2. **Weekly Course Schedule** 
+
+
+```{r reading, child='course_schedule.Rmd', eval=TRUE}
+```
 
 ### III. Grading
 

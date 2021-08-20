@@ -9,7 +9,7 @@ subtitle: ""
 weight: 3
 ---
 
-```{r setup, include=FALSE}
+```{r setup_schedule, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 # library(gridExtra)
@@ -19,21 +19,14 @@ library(kableExtra)
 # library(citr)
 ```
 
-### Meeting Day, Time, & Location:
-      
-Tuesday Period 4 (10:40 AM - 11:30 AM) in AND101 
-
-**AND**  
-      
-Thursday Period 4-5 (10:40 AM - 12:35 PM) in WM 0202
-
 ### Weekly Schedule
       
 ```{r course_calendar, echo=FALSE,message = FALSE,warning=FALSE}
 calendar <- read_csv("course_schedule_short.csv") %>% 
+  # calendar <- calendar %>% 
   mutate(Week=paste(Week1,Week,sep=" ")) %>% 
   select(-X1,-Week1) %>% 
-  select(Week,Date,Topic) %>% 
+  select(Week,Date,Topic, `Read Before Class`) %>% 
   replace_na(list(Date="",Week="", Topic="",`Read Before Class`="", `Watch Before Class`=""))
 
 calendar$Week <- gsub("NA NA","", calendar$Week)

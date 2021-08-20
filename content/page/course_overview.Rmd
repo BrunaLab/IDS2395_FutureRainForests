@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## The Future of Rain Forests | IDS 2935 | Fall 2021
 
+## Meeting Day, Time, & Location: Tuesday Period 4 (10:40 AM - 11:30 AM) in AND101 and Thursday Period 4-5 (10:40 AM - 12:35 PM) in *WM 0202*.  *Note the class meets in two different rooms.*
+
 <br></br>
 
 Tropical Rain Forests cover approximately 15% of the Earth’s land surface but contain over 50% of the world’s biodiversity. They are also the home to millions of people, the source of products central to our lives, shape global climate, and are being cleared at unprecedented rates. **In this class we will investigate the same fundamental questions asked by scientists that study rain forests:**
