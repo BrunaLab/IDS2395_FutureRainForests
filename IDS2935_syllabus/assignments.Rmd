@@ -61,22 +61,22 @@ assignments <- rbind(assignments,df2)
 # assignments[5, 3]<-cell_spec(assignments[6, 3], "latex",  align="c")
 kable(assignments,
       # digits = 2,
-      # align="lllc",
+      align="lllcc",
       format="latex",
       row.names = FALSE,
       escape= F,
       booktabs=T,
       linesep = "",
       ) %>% 
-   kable_classic_2(full_width = T,
-                latex_options="scale_down",
-                font_size = 8,
+   kable_classic_2(full_width = F,
+                # latex_options="scale_down",
+                font_size = 12,
                 position = "left") %>% 
-  column_spec(1, width = "10em") %>%
-  column_spec(2, width = "28em") %>%
-  column_spec(3, width = "15em") %>% 
+  column_spec(1, width = "15em") %>%
+  column_spec(2, width = "10em") %>%
+  column_spec(3, width = "3em") %>% 
   column_spec(4, width = "3em") %>% 
-  row_spec(0,hline_after = T, bold=T) %>% 
+  row_spec(0,hline_after = F, bold=T) %>% 
   row_spec(c(1:5),hline_after = T) %>% 
   row_spec(6,bold=T) %>% 
   add_indent(6)

@@ -31,7 +31,7 @@ header-includes:
 output: pdf_document
 
   # word_document: default
-#   html_document
+# output: html_document
 # weight: 5
     # df_print: paged
 ---
