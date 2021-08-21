@@ -13,11 +13,11 @@ linkcolor: blue
 urlcolor: blue
 site: bookdown::bookdown_site
 header-includes:
-- \usepackage{fancyhdr}
-- \pagestyle{fancy}
-- \fancyfoot{}
-- \fancyhead[R]{Syllabus, p. \thepage}
-- \fancyhead[L]{IDS 2935 - Rain Forests (`r format(Sys.time(), '%Y')`)}
+# - \usepackage{fancyhdr}
+# - \pagestyle{fancy}
+# - \fancyfoot{}
+# - \fancyhead[R]{Syllabus, p. \thepage}
+# - \fancyhead[L]{IDS 2935 - Rain Forests (`r format(Sys.time(), '%Y')`)}
 - \usepackage[default]{sourcesanspro}
 - \usepackage{parskip}
 - \usepackage{xcolor}
@@ -30,7 +30,7 @@ header-includes:
 - \titlespacing{\subsubsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
 output: pdf_document
   # word_document: default
-#   html_document
+# output: html_document
 # weight: 5
     # df_print: paged
 ---
@@ -78,6 +78,9 @@ kable(calendar,
                 full_width = T,
                 latex_options="scale_down",
                 font_size = 8,
-                position = "left")
+                position = "left") %>% 
+  column_spec(1, width = "5em") %>% 
+  column_spec(2, width = "4em") %>% 
+  column_spec(3, width = "25em") 
 
 ```
