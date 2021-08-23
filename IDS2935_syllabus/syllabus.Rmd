@@ -91,11 +91,9 @@ Students will explore these questions by reading and discussing a research studi
 
 ### **Required & Recommended Course Materials**
 
-* **Required (purchase/rent):** Juniper, T. (2019). Rainforest: Dispatches from Earth's Most Vital Frontlines. Island Press. (456 pp). ISBN-13: 9781642830736 [approx. $8 (used), $14-18 (new), $20 (electronic)].
+1. **Required (purchase/rent):** Juniper, T. (2019). Rainforest: Dispatches from Earth's Most Vital Frontlines. Island Press. (456 pp). ISBN-13: 9781642830736 [approx. $8 (used), $14-18 (new), $20 (electronic)].
 
-* *Additional Required Reading will be posted on the course Canvas site)*
-
-* **Recommended:** None
+2. **Recommended:** None
 
 ## II. Graded Coursework
 \vspace{0.3cm} 
@@ -132,7 +130,6 @@ kable(assignments,
 
 ## III. Semester Overview & Key Dates
 \vspace{0.3cm} 
-**Note: The reading list for each session is subject to change.** Please refer to the course Canvas page for the most up-to-date reading assignments
 <!-- ### **Weekly Course Schedule**  -->
 ```{r course_calendar, echo=FALSE,message = FALSE,warning=FALSE}
 calendar <- read_csv("./course_schedule_short.csv") %>% 
@@ -179,6 +176,8 @@ kable(calendar,
 ```
 \newpage
 ## IV. Weekly Reading *(to be completed before class)*   
+\vspace{0.3cm} 
+**Note: The reading list for each session is subject to change.** Please refer to the course Canvas page for the most up-to-date reading assignments
 \vspace{0.3cm} 
 ### 24-Aug	Introductions
 * None  
@@ -280,16 +279,16 @@ kable(calendar,
 ### 9-Dec	What will we do?  
 * None
 
-
 ## V. Grading
 \vspace{0.3cm} 
-### **Statement on Attendance and Participation**  
+#### **Statement on Attendance and Participation** 
+Requirements for class attendance and make-up exams, assignments, and other work in this course are consistent with university policies that can be found at: https://catalog.ufl.edu/UGRD/academic-regulations/attendance-policies/  
 
-Requirements for class attendance and make-up exams, assignments, and other work in this course are consistent with university policies that can be found at: https://catalog.ufl.edu/UGRD/academic-regulations/attendance-policies/
-  
-* **Attendance:** Though attendance is not required, most of the required assignments are completed in class. They are designed so that one could complete them independently, but by doing them in class you will benefit from working collaboratively with the other students. 
-* **Participation:** Consistent informed, thoughtful, and considerate class participation is encouraged. If you have personal issues that prohibit you from joining freely in class discussion, e.g., shyness, language barriers, etc., that is no problem! Let me know me as soon as possible and we will discuss alternative modes of participation.
-* **If you need to miss an assignment or discussion for whatever reason (conference, illness, family emergency, etc.), please let me know as soon as possible.** We will make arrangements for you to complete any assignments and go over any course material you will be missing. I would much rather you focus on your health or supporting friends and family in need than struggle to turn in assignments. Let me know so we can work things out.
+**Attendance:** Though attendance is not required, most of the required assignments are completed in class. They are designed so that one could complete them independently, but by doing them in class you will benefit from working collaboratively with the other students. 
+
+**Participation:** Consistent informed, thoughtful, and considerate class participation is encouraged. If you have personal issues that prohibit you from joining freely in class discussion, e.g., shyness, language barriers, etc., that is no problem! Let me know me as soon as possible and we will discuss alternative modes of participation.  
+
+**If you need to miss an upcoming class for whatever reason (conference, illness, family emergency, etc.), please let me know as soon as possible.** We will make arrangements for you to complete any assignments and go over any material you will be missing. I would much rather you focus on your health or supporting friends and family in need than struggle to turn in assignments. 
 
 ### **4. Grading Scale**
 
@@ -307,11 +306,11 @@ Requirements for class attendance and make-up exams, assignments, and other work
     
 ## VI. Quest Learning Experiences
 \vspace{0.3cm} 
-* **Details of Experiential Learning Component**
+### **Experiential Learning Component**  
 This course has multiple experiential learning activities. Students will be taking a field trip to the FLMNH Butterfly Rain Forest to investigate plant form and function and plant-animal interactions. Students will also surveying tropical products in their homes and pantries. Finally, they will be gathering and analyzing data on deforestation, biodiversity in different tropical rain forest regions, and  for forest regeneration influences carbon stocks and climate change scenarios. 
 
-* **Details of Self-Reflection Component**
-Students will also have multiple opportunities for self-reflection throughout the course. In addition to reflection on their goals and expectations for the class, they will consider the (almost certainly underappreciated) ubiquity of products derived from tropical plants and animals in their daily lives. Finally, they will have the opportunity to consider what actions they can take as individuals to advance rain forest conservation and the well-being of forest-dependent people.
+### **Details of Self-Reflection Component**
+Students will also have multiple opportunities for self-reflection throughout the course. In addition to reflection on their goals and expectations for the class, they will consider the (almost certainly under-appreciated) ubiquity of products derived from tropical plants and animals in their daily lives. Finally, they will have the opportunity to consider what actions they can take as individuals to advance rain forest conservation and the well-being of forest-dependent people.
 
 ## VII. Required Policies 
 \vspace{0.3cm} 
@@ -340,7 +339,7 @@ UF students are bound by The Honor Pledge which states, “We, the members of th
 The writing studio is committed to helping University of Florida students meet their academic and professional goals by becoming better writers. Visit the writing studio online at http://writing.ufl.edu/writing-studio/ or in 2215 Turlington Hall for one-on-one consultations and workshops.  
 
 ### **In-Class Recording**
-
+\vspace{0.3cm} 
 **Students are allowed to record video or audio of class lectures. However, the purposes for which these recordings may be used are strictly controlled.** The only allowable purposes are (1) for personal educational use, (2) in connection with a complaint to the university, or (3) as evidence in, or in preparation for, a criminal or civil proceeding. All other purposes are prohibited. Specifically, students may not publish recorded lectures without the written consent of the instructor. 
 
 **A “class lecture” is:** an educational presentation intended to inform or teach enrolled students about a particular subject, including any instructor-led discussions that form part of the presentation, and delivered by any instructor hired or appointed by the University, or by a guest instructor, as part of a University of Florida course. A class lecture does not include lab sessions, student presentations, clinical presentations such as patient history, academic exercises involving solely student participation, assessments (quizzes, tests, exams), field trips, private conversations between students in the class or between a student and the faculty or lecturer during a class session. 
