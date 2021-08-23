@@ -130,18 +130,17 @@ kable(assignments,
 
 ```
 
-## III. Semester Overview
+## III. Semester Overview & Key Dates
 \vspace{0.3cm} 
-
-**Note: The reading list for each session is subject to change.** For the up-to-date list of materials to read or watch in advance of each class session please refer to the course Canvas page.
+**Note: The reading list for each session is subject to change.** Please refer to the course Canvas page for the most up-to-date reading assignments
 <!-- ### **Weekly Course Schedule**  -->
 ```{r course_calendar, echo=FALSE,message = FALSE,warning=FALSE}
 calendar <- read_csv("./course_schedule_short.csv") %>% 
   # calendar <- calendar %>% 
   mutate(Week=paste(Week1,Week,sep=" ")) %>% 
   select(-X1,-Week1) %>% 
-  select(Week,Date,Topic, `Read Before Class`) %>% 
-  replace_na(list(Date="",Week="", Topic="",`Read Before Class`="", `Watch Before Class`=""))
+  select(Week,Date,Topic, `Assignment handed out or due`) %>% 
+  replace_na(list(Date="",Week="", Topic="", `Assignment handed out or due`=""))
 
 calendar$Week <- gsub("NA NA","", calendar$Week)
 calendar$Week <- gsub("NA Final Exam","", calendar$Week)
@@ -149,7 +148,7 @@ calendar$Week <- gsub("NA Final Exam","", calendar$Week)
 
 kable(calendar,
       # digits = 2,
-      align="cclll",
+      align="l",
       format="latex",
       row.names = FALSE,
       escape= TRUE,
@@ -169,17 +168,120 @@ kable(calendar,
                 latex_options="scale_down",
                 font_size = 8,
                 position = "left") %>% 
-  column_spec(1, width = "5em") %>% 
-  column_spec(2, width = "4em") %>% 
-  column_spec(3, width = "25em") 
-  # column_spec(3, width = "15em") %>% 
-  # column_spec(4, width = "3em") %>% 
-  # row_spec(0,hline_after = F, bold=T) %>% 
-  # row_spec(c(1:2),hline_after = T) 
+  column_spec(1, width = "5em") %>%
+  column_spec(2, width = "4em") %>%
+  column_spec(3, width = "25em")
+# column_spec(3, width = "15em") %>%
+# column_spec(4, width = "3em") %>%
+# row_spec(0,hline_after = F, bold=T) %>%
+# row_spec(c(1:2),hline_after = T)
 
 ```
 \newpage
-## IV. Grading
+## IV. Weekly Reading *(to be completed before class)*   
+\vspace{0.3cm} 
+### 24-Aug	Introductions
+* None  
+
+### 26-Aug	Setting the stage: historical narratives
+* None  
+
+### 31-Aug	Rain forests in High & Popular Culture 
+* [Jolly 2021. *The Conversation.*](https://theconversation.com/godzilla-vs-kong-monster-movies-evoke-adventure-but-also-dangers-of-tropics-158105)
+* [Wolf & Mills. 2016. *The Conversation.*](https://theconversation.com/comparing-black-people-to-monkeys-has-a-long-dark-simian-history-55102)
+
+### 2-Sep	The Rain Forest in film & TV
+* None			
+
+### 7-Sep	What is a Rain Forest?
+* Juniper Ch. 1-2 (pp 15-54)  
+
+### 9-Sep	Patterns of Biodiversity
+* None			
+
+### 14-Sep	Coevolution and the origins of tropical biodiversity
+* Juniper Ch. 3-4 (pp 55-102)  
+
+### 16-Sep	BUTTERFLY RAIN FOREST  
+* None  
+
+### 21-Sep	Forest disturbance, dynamics, & the maintenance of diversity
+* None  
+
+### 23-Sep	Humans as part of rain forests  
+* Juniper Ch. 5 (pp 106-124)
+			
+### 28-Sep	Rain Forest Manipulation & the Paradox of Luxuriance
+* None  
+
+### 30-Sep	Forest-Savanna Boundaries and Tipping Points
+* Staver, Carla A. et al. 2011. The global extent and determinants of savanna and forest as alternative biome states. *Science* 334(6053): 230-232.  [link to the article](https://science.sciencemag.org/content/334/6053/230)
+			
+### 5-Oct	Rain Forests: Fact vs. Fiction
+* None
+
+### 7-Oct	(BAD) RAIN FOREST MOVIE FEST 2021
+* None
+
+### 12-Oct	Forest cover and forest loss I
+* Juniper Ch. 6 (pp 125-37)
+* Nolen, Stephanie (Reporting) with Aaron Vincent Elkaim (Photographs).  2018. Inside the Amazon’s Deforestation Crisis. The Globe and Mail. [link to the article](https://www.theglobeandmail.com/news/world/amazon-rainforest-deforestation-crisis/article37722932/). *Read this on a big screen - it's worth it.*
+
+### 14-Oct	Forest cover and forest loss II  
+* Juniper Ch. 12-13 (pp 220-253)			
+
+
+### 19-Oct	Mining, Timber
+* None  
+
+### 21-Oct	Agriculture and Fire
+* Zu Ermgassen, EKHJ et al. 2020. The origin, supply chain, and deforestation risk of Brazil's beef exports. *PNAS* 117(50):31770-31779.[link to the article](https://www.pnas.org/content/pnas/early/2020/11/30/2003270117.full.pdf)
+
+### 26-Oct	Climate change I
+* Juniper Ch. 7 (pp 138-153)  
+
+### 28-Oct	Climate change II
+* None
+
+### 2-Nov	Consumer choices
+* Juniper Ch. 15-17 (pp 278-330)  
+
+### 4-Nov	DURIAN FEST 2021
+* Lawal, Shola. 2020. Our Endless Appetite For Chocolate Has Bitter Environmental Consequences. Huffington Post. [link to the article](https://tinyurl.com/y6curgmn)  
+
+### 9-Nov	International frameworks
+* Juniper Ch. 19-21 (pp 345-379)  
+
+### 11-Nov	No class - holiday
+* None		
+
+### 16-Nov	Protected areas
+* Juniper Ch. 18 (pp. 331-342)  
+
+### 18-Nov	Forest restoration & regeneration
+* Juniper, Ch. 20-22 (pp 355-371)
+
+### 23-Nov	Project Work Day 
+* None  
+  
+### 25-Nov	No class - holiday
+* None
+
+### 30-Nov	Local Initiatives, Empowered Communities  
+* Juniper Ch 10 (pp 182-203) 
+* Juniper Ch 14 (pp 254-274)  
+
+### 2-Dec	Philanthropy, NGOs, and Activism  
+* Juniper Ch 8 (pp 154-170)
+
+### 7-Dec	Rain Forest Headlines  
+* Juniper Ch 22 (pp 380-398)  
+
+### 9-Dec	What will we do?  
+* None
+
+
+## V. Grading
 \vspace{0.3cm} 
 ### **Statement on Attendance and Participation**  
 
@@ -203,7 +305,7 @@ Requirements for class attendance and make-up exams, assignments, and other work
 
 * **Grade Points:** For information on how UF assigns grade points, visit: https://catalog.ufl.edu/UGRD/academic-regulations/grades-grading-policies/
     
-## V. Quest Learning Experiences
+## VI. Quest Learning Experiences
 \vspace{0.3cm} 
 * **Details of Experiential Learning Component**
 This course has multiple experiential learning activities. Students will be taking a field trip to the FLMNH Butterfly Rain Forest to investigate plant form and function and plant-animal interactions. Students will also surveying tropical products in their homes and pantries. Finally, they will be gathering and analyzing data on deforestation, biodiversity in different tropical rain forest regions, and  for forest regeneration influences carbon stocks and climate change scenarios. 
@@ -211,7 +313,7 @@ This course has multiple experiential learning activities. Students will be taki
 * **Details of Self-Reflection Component**
 Students will also have multiple opportunities for self-reflection throughout the course. In addition to reflection on their goals and expectations for the class, they will consider the (almost certainly underappreciated) ubiquity of products derived from tropical plants and animals in their daily lives. Finally, they will have the opportunity to consider what actions they can take as individuals to advance rain forest conservation and the well-being of forest-dependent people.
 
-## VI. Required Policies 
+## VII. Required Policies 
 \vspace{0.3cm} 
 ### **Students Requiring Accommodation**
 Students with disabilities who experience learning barriers and would like to request academic accommodations should connect with the Disability Resource Center by visiting https://disability.ufl.edu/students/get-started/. It is important for students to share their accommodation letter with their instructor and discuss their access needs, as early as possible in the semester. 
@@ -246,7 +348,7 @@ The writing studio is committed to helping University of Florida students meet t
 **Publication without permission of the instructor is prohibited. **To “publish” means to share, transmit, circulate, distribute, or provide access to a recording, regardless of format or medium, to another person (or persons), including but not limited to another student within the same class section. Additionally, a recording, or transcript of a recording, is considered published if it is posted on or uploaded to, in whole or in part, any media platform, including but not limited to social media, book, magazine, newspaper, leaflet, or third-party note/tutoring services. A student who publishes a recording without written consent may be subject to a civil cause of action instituted by a person injured by the publication and/or discipline under UF Regulation 4.040 Student Honor Code and Student Conduct Code
 
 
-## VII. General Education and Quest Objectives & SLOs
+## VIII. General Education and Quest Objectives & SLOs
 <!-- \vspace{0.3cm}  -->
 <!-- **Course Objectives — GenEd Primary Area & Quest ** -->
 

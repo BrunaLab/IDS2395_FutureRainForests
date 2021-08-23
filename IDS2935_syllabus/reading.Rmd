@@ -1,0 +1,159 @@
+---
+title: 'Syllabus'
+author: "Emilio M. Bruna"
+date: "`r format(Sys.time(), '%Y')`"
+web: www.BrunaLab.org
+github: embruna
+twitter: https://twitter.com/BrunaLab
+phone: (352) 514-3935
+email: embruna@ufl.edu
+geometry: margin=1in
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+site: bookdown::bookdown_site
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyfoot{}
+- \fancyhead[R]{Syllabus, p. \thepage}
+- \fancyhead[L]{IDS 2935 - Rain Forests (`r format(Sys.time(), '%Y')`)}
+- \usepackage[default]{sourcesanspro}
+- \usepackage{parskip}
+- \usepackage{xcolor}
+- \AtBeginDocument{\let\maketitle\relax}
+# - \usepackage{sectsty} \allsectionsfont{\raggedright}
+- \usepackage{sectsty} \sectionfont{\centering}
+- \usepackage{titlesec}
+- \titlespacing{\section}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsubsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+output: pdf_document
+  # word_document: default
+#   html_document
+# weight: 5
+    # df_print: paged
+---
+
+```{r setup_reading, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(kableExtra)
+library(tidyverse)
+```
+
+## Week 1
+### 24-Aug	Introductions  
+* None  
+
+### 26-Aug	Setting the stage: historical narratives   
+* None  
+
+## Week 2  
+### 31-Aug	Rain forests in High & Popular Culture 
+* [Jolly 2021. *The Conversation.*](https://theconversation.com/godzilla-vs-kong-monster-movies-evoke-adventure-but-also-dangers-of-tropics-158105)
+* [Wolf & Mills. 2016. *The Conversation.*](https://theconversation.com/comparing-black-people-to-monkeys-has-a-long-dark-simian-history-55102)
+
+### 2-Sep	The Rain Forest in film & TV
+* None			
+
+## Week 3	
+### 7-Sep	What is a Rain Forest?
+* Juniper Ch. 1-2 (pp 15-54)  
+
+### 9-Sep	Patterns of Biodiversity
+* None			
+
+## Week 4	
+### 14-Sep	Coevolution and the origins of tropical biodiversity
+* Juniper Ch. 3-4 (pp 55-102)  
+
+### 16-Sep	BUTTERFLY RAIN FOREST  
+* None  
+
+## Week 5	
+### 21-Sep	Forest disturbance, dynamics, & the maintenance of diversity
+* None  
+
+### 23-Sep	Humans as part of rain forests  
+* Juniper Ch. 5 (pp 106-124)
+			
+## Week 6	
+### 28-Sep	Rain Forest Manipulation & the Paradox of Luxuriance
+* None  
+
+### 30-Sep	Forest-Savanna Boundaries and Tipping Points
+* Staver, Carla A. et al. 2011. The global extent and determinants of savanna and forest as alternative biome states. *Science* 334(6053): 230-232.  [link to the article](https://science.sciencemag.org/content/334/6053/230)
+			
+## Week 7	
+### 5-Oct	Rain Forests: Fact vs. Fiction
+* None
+
+### 7-Oct	(BAD) RAIN FOREST MOVIE FEST 2021
+* None
+
+## Week 8	
+### 12-Oct	Forest cover and forest loss I
+* Juniper Ch. 6 (pp 125-37)
+* Nolen, Stephanie (Reporting) with Aaron Vincent Elkaim (Photographs).  2018. Inside the Amazon’s Deforestation Crisis. The Globe and Mail. [link to the article](https://www.theglobeandmail.com/news/world/amazon-rainforest-deforestation-crisis/article37722932/). *Read this on a big screen - it's worth it.*
+
+### 14-Oct	Forest cover and forest loss II  
+*Juniper Ch. 12-13 (pp 220-253)			
+
+## Week 9	
+
+### 19-Oct	Mining, Timber
+* None  
+
+### 21-Oct	Agriculture and Fire
+* Zu Ermgassen, EKHJ et al. 2020. The origin, supply chain, and deforestation risk of Brazil's beef exports. *PNAS* 117(50):31770-31779.[link to the article](https://www.pnas.org/content/pnas/early/2020/11/30/2003270117.full.pdf)
+
+## Week 10	
+### 26-Oct	Climate change I
+* Juniper Ch. 7 (pp 138-153)  
+
+### 28-Oct	Climate change II
+* None
+
+## Week 11	
+### 2-Nov	Consumer choices
+* Juniper Ch. 15-17 (pp 278-330)  
+
+### 4-Nov	DURIAN FEST 2021
+* 5)	Lawal, Shola. 2020. Our Endless Appetite For Chocolate Has Bitter Environmental Consequences. Huffington Post. [link to the article](https://tinyurl.com/y6curgmn)  
+
+## Week 12	
+### 9-Nov	International frameworks
+* Juniper Ch. 19-21 (pp 345-379)  
+
+### 11-Nov	No class - holiday
+* None		
+
+## Week 13	
+### 16-Nov	Protected areas
+* Juniper Ch. 18 (pp. 331-342)  
+
+### 18-Nov	Forest restoration & regeneration
+* Juniper, Ch. 20-22 (pp 355-371)
+
+## Week 14	
+### 23-Nov	Project Work Day 
+  * None  
+  
+### 25-Nov	No class - holiday
+* None
+
+## Week 15	
+### 30-Nov	Local Initiatives, Empowered Communities  
+* Juniper Ch 10 (pp 182-203) 
+* Juniper Ch 14 (pp 254-274)  
+
+### 2-Dec	Philanthropy, NGOs, and Activism  
+* Juniper Ch 8 (pp 154-170)
+
+## Week 16  
+### 7-Dec	Rain Forest Headlines  
+* Juniper Ch 22 (pp 380-398)  
+
+### 9-Dec	What will we do?  
+* None
