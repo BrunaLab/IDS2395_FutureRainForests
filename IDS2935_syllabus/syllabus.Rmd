@@ -178,18 +178,19 @@ kable(calendar,
 ## IV. Weekly Reading *(to be completed before class)*   
 \vspace{0.3cm} 
 **Note: The reading list for each session is subject to change.** Please refer to the course Canvas page for the most up-to-date reading assignments
-\vspace{0.3cm} 
+\vspace{0.3cm}  
 ### 24-Aug	Introductions
 * None  
 
 ### 26-Aug	Setting the stage: historical narratives
-* None  
+* Excepts from [Historical Narratives](../IDS2935_class_sessions/02_trf_narratives/narratives_in_class/historical_narratives.pdf)
 
 ### 31-Aug	Rain forests in High & Popular Culture 
-* None			
+* Excepts from [Poetry and Fiction](../IDS2935_class_sessions/03_trf_culture/lit_poetry.pdf)			
 
 ### 2-Sep	The Rain Forest in film & TV
 * [Jolly 2021. *The Conversation.*](https://theconversation.com/godzilla-vs-kong-monster-movies-evoke-adventure-but-also-dangers-of-tropics-158105)
+
 
 ### 7-Sep	What is a Rain Forest?
 * Juniper Ch. 1-2 (pp 15-54)  
