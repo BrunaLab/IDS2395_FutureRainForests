@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.8.17)  20 AUG 2021 10:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.8.17)  31 AUG 2021 12:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -928,13 +928,13 @@ map}
 
 ]
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 274.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 272.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 274.
+(Font)              scaled to size 8.0pt on input line 272.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 294.
+(Font)              <5> on input line 291.
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--296
+Underfull \hbox (badness 10000) in paragraph at lines 274--293
 
  []
 
@@ -956,9 +956,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3]
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/it' aliased to
+(Font)              `T1/SourceSansPro-TLF/bold/it' on input line 374.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/it' will be
+(Font)              scaled to size 14.4pt on input line 374.
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 384.
+(hyperref)                be the same. Added a new anchor on input line 385.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -970,10 +974,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4]
 
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 475.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -983,6 +983,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [5]
 
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 740.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -990,18 +994,53 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6] (./syllabus.aux)
+[6]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 772.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 801.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9] (./syllabus.aux)
 Package rerunfilecheck Info: File `syllabus.out' has not changed.
-(rerunfilecheck)             Checksum: 6778892BC73408A3134C70B4CBE10CE2;4542.
+(rerunfilecheck)             Checksum: 46C789EAF2D8D4D2A31FE86551DD5C03;12509.
  ) 
 Here is how much of TeX's memory you used:
- 15207 strings out of 480502
- 237744 string characters out of 5898416
- 623491 words of memory out of 5000000
- 32297 multiletter control sequences out of 15000+600000
- 538633 words of font info for 213 fonts, out of 8000000 for 9000
+ 15288 strings out of 480502
+ 240174 string characters out of 5898416
+ 623510 words of memory out of 5000000
+ 32339 multiletter control sequences out of 15000+600000
+ 546626 words of font info for 212 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,16n,69p,1197b,511s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,16n,69p,1197b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/emiliobruna/Library/TinyTeX/texmf-dist/fonts/enc/dvips/sourcesanspro/
 a_emkxm5.enc}{/Users/emiliobruna/Library/TinyTeX/texmf-dist/fonts/enc/dvips/sou
 rcesanspro/a_5ponh6.enc}</Users/emiliobruna/Library/TinyTeX/texmf-dist/fonts/ty
@@ -1010,10 +1049,10 @@ TeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-BoldIt.pfb></Users
 /emiliobruna/Library/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceS
 ansPro-It.pfb></Users/emiliobruna/Library/TinyTeX/texmf-dist/fonts/type1/adobe/
 sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on syllabus.pdf (6 pages, 248606 bytes).
+Output written on syllabus.pdf (9 pages, 257950 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 169 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 49345 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 357 PDF objects out of 1000 (max. 8388607)
+ 333 compressed objects within 4 object streams
+ 75 named destinations out of 1000 (max. 500000)
+ 53705 words of extra memory for PDF output out of 61914 (max. 10000000)
 
