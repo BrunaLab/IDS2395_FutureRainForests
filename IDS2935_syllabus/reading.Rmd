@@ -59,14 +59,19 @@ library(tidyverse)
 
 ## Week 3	
 ### 7-Sep	What is a Rain Forest?
-* Juniper Ch. 1-2 (pp 15-54)  
-
+* Juniper Ch. 1-2 (pp 15-54)
+* Watch:   
+  1. [LLP Forest](https://www.youtube.com/watch?v=kRD1CpQOF7Q&t=17s) 
+  2. [CI: Under the Canopy](https://www.youtube.com/watch?v=5JvJCvdqvYs).
+  3. [Why does Earth have Deserts?](https://www.youtube.com/watch?v=T6Us1sPXBfA)
+  
 ### 9-Sep	Patterns of Biodiversity
 * None			
 
 ## Week 4	
 ### 14-Sep	Coevolution and the origins of tropical biodiversity
 * Juniper Ch. 3-4 (pp 55-102)  
+* Watch: [Why Are There So Many Species Near the Equator?](https://www.youtube.com/watch?v=IrbKix96_k0)
 
 ### 16-Sep	BUTTERFLY RAIN FOREST  
 * None  
