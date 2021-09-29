@@ -1,0 +1,80 @@
+---
+title: 'IDS 2935 - "Coevolution: Mutualisms" In-class Activity'
+author: "Emilio M. Bruna"
+date: "`r format(Sys.time(), '%Y')`"
+mainfont: SourceSansPro
+geometry: margin=1in
+fontsize: 12pt
+linkcolor: darkmidnightblue
+urlcolor: darkmidnightblue
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyfoot{}
+- \fancyhead[R]{Coevolution (In-class), p. \thepage}
+- \fancyhead[L]{IDS 2935 - Rain Forests (`r format(Sys.time(), '%Y')`)}
+- \usepackage[default]{sourcesanspro}
+- \usepackage{parskip}
+- \usepackage{xcolor}
+- \AtBeginDocument{\let\maketitle\relax}
+- \usepackage{sectsty} \sectionfont{\centering}
+- \usepackage{titlesec}
+- \usepackage{sectsty} \sectionfont{\centering\color{darkmidnightblue}}
+- \usepackage{sectsty} \subsectionfont{\color{darkmidnightblue}}
+- \titlespacing{\section}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsubsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \definecolor{darkcerulean}{rgb}{0.03, 0.27, 0.49}
+- \definecolor{darkmidnightblue}{rgb}{0.0, 0.2, 0.4}
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  rmdformats::robobook: default
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Coevolution of Plants and Animals Driven by Reproduction
+
+\vspace{0.3cm}
+
+Plants are faced with a unique challenge when it comes to reproduction: they are rooted to the ground, so they can't move around and search for partners with whom to exchange DNA. Plants in Tropical Rain Forests face some additional challenges. This exercise is designed to get you thinking about plant reproduction and how it has led to coevolution with animals.
+
+Let's start by reminding ourselves of a few facts about plants in general and tropical plants in particular:
+
+1) the number of plants species found in a given rain forest site can be extremely high: you might find 200-300 species of trees in a single hectare of rain forest, plus dozens more species of understory herbs, bromeliads, lianas, palms, etc. (reminder 1 ha = 100 m x 100 m). 
+
+2) Most plant species in a tropical rain forest are very rare - there may be at most 1-2 individuals of that species in a ha of rain forest, but usually there are far fewer....you might find only 1 individual of a plant species in an area of 10-100 ha.
+
+3) Plants can reproduce asexually - without the exchange of gametes - but there is a real premium on sexual reproduction, whereby gametes carried in pollen fuse with the gametes found in the ovules (which are located within ovaries). The fertilized ovules develop into seeds, while the ovaries surrounding them develop into fruits. 
+
+4) While many plants are 'self-compatible', meaning that they can fertilize their ovules with their own pollen, the overwhelming majority of plants in tropical rain forests are 'self-incompatible' - they can only produce viable seeds when ovules are fertilized by pollen from another plant. 
+
+**The Challenge:** How do you get your pollen to fertilize another plant of the same species if you can't move around and place it there yourself?
+
+**The Solution:** Get something else to do the work for you. This is what we refer to as "pollination": the transfer of pollen from the one plant to another. Pollination can be done by **"abiotic"** (non-living) mechanisms, the most common of which are wind and water. Alternatively it can be done by **biotic** (living) mechansims: insects, mammals, or other animals can move pollen from plant to plant.
+
+5) Over 95% of plant species in Tropical Rain Forests depend on animals to transfer pollen for them. This is usually a "mutualistic" interaction - the plant gains a benefit (pollen transfer) and the animal gains a benefit (a reward for visiting the flower - nectar, pollen, etc.). It is important to realize that the animals are not moving pollen to be nice, nor are plants providing rewwards out of generosity - it's a transaction, with each partner investing as little as possible. Ocassionaly, some species even cheat... 
+
+
+ASSIGNMENT: 
+
+1. Watch the video uploaded to the Canvas Website on pollination (link: [https://youtu.be/XxcDjpnHO_Y](https://youtu.be/XxcDjpnHO_Y)).
+
+2. Upload 2-3 of the photos of flowers that you took inside the Butterfly Rain Forest.
+
+Now answer the following two questions: 
+
+3. Given what you learned in the video about "pollination syndromes", what do you think the most likely pollinators of these flowers were?
+
+4. Only 1-2% of plants in Tropical Rain Forests are wind-pollinated. Why do you think wind pollination is so rare in tropical rain forests?
+
+
+
+

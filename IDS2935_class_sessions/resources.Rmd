@@ -1,0 +1,501 @@
+---
+title: "resources"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+  * Staver *et. al.* 2011. The global extent and determinants of savanna and forest as alternative states. *Science* 334: 230-232.
+  
+  * zu Ermgassen *et. al.* 2020. The origin, supply chain, and deforestation risk of Brazil’s beef exports. *Proceedings of the National Academy of Sciences*. 117(50):31770-31779
+  
+  * Raby, Megan. 2017. The Colonial Origins of Tropical Field Stations. American Scientist 105(4): 216-223. 
+  
+  * Lawal, Shola. 2020. Our Endless Appetite For Chocolate Has Bitter Environmental Consequences. Huffington Post. [link](https://tinyurl.com/y6curgmn)
+  
+  * Priscilla Jolly. 2021. ‘Godzilla vs. Kong’: Monster movies evoke adventure but also ‘dangers’ of tropics. *The Conversation*. [link](https://theconversation.com/godzilla-vs-kong-monster-movies-evoke-adventure-but-also-dangers-of-tropics-158105)
+  
+  * Joseph McQuade. 2019. Colonialism’s role in the overexploitation of natural resources. *The Conversation*. [link](https://theconversation.com/earth-day-colonialisms-role-in-the-overexploitation-of-natural-resources-113995)
+
+  * Wulf D. Hund & Charles W Mills. 2016. Comparing black people to monkeys has a long, dark simian history. *The Conversation*. [link](https://theconversation.com/comparing-black-people-to-monkeys-has-a-long-dark-simian-history-55102)
+
+* https://time.com/6086973/jungle-cruise-disney-theme-park-ride/indigenous
+
+* https://theconversation.com/why-amazonian-forest-peoples-are-counter-mapping-their-ancestral-lands-84474
+
+
+palm oil: 
+* https://theconversation.com/how-palm-oil-became-the-worlds-most-hated-most-used-fat-source-161165
+
+* https://www.nytimes.com/2020/04/09/climate/animals-humans-virus-covid.html
+
+* https://www.nytimes.com/2019/08/27/world/africa/congo-angola-rainforest-fires.html
+
+* https://www.nytimes.com/2018/12/10/world/americas/amazon-illegal-mining.html
+
+* https://www.nytimes.com/2018/10/09/science/fruit-color-evolution.html
+
+* https://www.nytimes.com/2018/02/14/science/peru-yaguas-national-park.html
+
+* https://www.nytimes.com/2021/04/02/opinion/international-world/juma-people-brazil-amazon.html?searchResultPosition=10
+
+* https://www.nytimes.com/2006/05/21/travel/tmagazine/21T-JUNGLE.html?searchResultPosition=18
+
+* https://www.nytimes.com/2021/03/11/climate/nature-conservation-30-percent.html?searchResultPosition=14
+
+* https://www.theamazonwewant.org/chapters-in-brief/
+
+* https://www.wilsoncenter.org/audio/heat-moment-climate-change-americas
+* https://www.theguardian.com/environment/2021/mar/29/average-westerners-eating-habits-lead-to-loss-of-four-trees-every-year
+* https://www.visualcapitalist.com/all-the-biomass-of-earth-in-one-graphic/
+
+Project Idea: Campaign Bai to protect the places it named it';s drinks after:
+* 
+https://news.keurigdrpepper.com/2019-06-03-Keurig-Dr-Pepper-Launches-New-Corporate-Responsibility-Strategy-and-Commitments
+* https://www.linkedin.com/company/bai-brands/people/
+
+* https://www.keurigdrpepper.com/en/contact-us
+
+* https://www.blawenburgtales.com/post/53-launching-a-dream-in-blawenburg
+
+Video Game reviews:
+* https://en.wikipedia.org/wiki/Amazon:_Guardians_of_Eden
+
+TED Talks: 
+
+* [Tasso Azevedo: Hopeful lessons from the battle to save rainforests | TED Talk](ted.com/talks/tasso_azevedo_hopeful_lessons_from_the_battle_to_save_rainforests )
+
+* [Nathan Wolfe: The jungle search for viruses | TED Talk](ted.com/talks/nathan_wolfe_the_jungle_search_for_viruses)
+
+* [Pavan Sukhdev: Put a value on nature! | TED Talk](ted.com/talks/pavan_sukhdev_put_a_value_on_nature)
+
+* [The largest river on Earth is invisible — and airborne](ideas.ted.com/this-airborne-river-may-be-the-largest-river-on-earth)
+
+* [Antonio Nobre](ted.com/talks/antonio_donato_nobre_the_magic_of_the_amazon_a_river_that_flows_invisibly_all_around_us?utm_source=tedcomshare&utm_medium=email&utm_campaign=tedspread)
+
+
+WTF Tropical forest tictoc
+* https://www.tiktok.com/tag/amazonrainforest?lang=en&is_copy_url=1&is_from_webapp=v1
+
+HW 1: Monetizing the Rain Forest: Images of Rain Forests in Magazines, Advertiing, Etc.
+hand out magazines, or shopping on the drink aisle - find all images of rain forests. Build a photo cvollage
+
+Misc: Bot twitter deforestation https://news.ycombinator.com/item?id=24225724
+
+cocoa certification
+ane alencar
+Dr Erika Berenguer
+Ana Cristina Barros
+
+* footprint calclulator: https://blog.policyexpert.co.uk/in-the-news/best-apps-online-tools-for-calculating-your-carbon-footprint/
+
+
+* https://apps.apple.com/us/app/carbon-footprint-co2-tracker/id1491455903
+
+* https://www.globalforestwatch.org/
+
+### 24-Aug	Introductions
+
+* https://www.rainforest-alliance.org/everyday-actions/tropical-forests-in-our-daily-lives/
+
+### 26-Aug	Setting the stage: historical narratives
+
+* https://pulitzercenter.org/stories/his-plane-crashed-amazon-then-came-hard-part
+
+* https://www.nytimes.com/2021/06/18/science/koepcke-diller-panguana-amazon-crash.html
+
+
+1. divide them into groups
+2. given them artwork to flip through
+2. Have them put them in groups that make sense to them
+3. explain to the class 
+
+
+### Art
+Rousseau
+* https://artsandculture.google.com/story/xwVxpOh7XnK4bQ
+* https://www.moma.org/learn/moma_learning/henri-rousseau-the-dream-1910/
+* https://www.youtube.com/watch?v=RLaEoLy1gms
+* https://www.dailyartmagazine.com/fantastic-jungles-henri-rousseau/
+* https://joyofmuseums.com/museums/united-kingdom-museums/london-museums/the-national-gallery-london/tiger-in-a-tropical-storm-by-henri-rousseau/
+* https://www.youtube.com/watch?v=JQYrBWnJW4s
+* https://www.dailyartmagazine.com/exotic-henri-rousseau-art/
+
+Lam
+* https://www.moma.org/collection/works/34666
+* https://www.dailyartmagazine.com/cuban-modernism/
+
+Gaugin
+* https://www.dailyartmagazine.com/gauguin-master-or-monster/
+* https://artsandculture.google.com/asset/tahitian-landscape/KwGHL1HBlRbiIg
+* https://www.dailyartmagazine.com/summer-meal-art/
+
+* https://www.nytimes.com/1988/02/07/arts/how-explorers-saw-the-brave-new-world.html
+* https://artsandculture.google.com/asset/brazilian-flora-and-fauna/dQFZBwYjfMCjsA
+* https://artsandculture.google.com/asset/menino-com-lagartixas-lasar-segall/lAEC6kbwDCYW_A
+
+Ekhout
+* https://artsandculture.google.com/entity/albert-eckhout/m047rxjl?hl=en
+* https://artsandculture.google.com/asset/tarairiu-man-albert-eckhout/MgHk0IQfgKyTMQ?hl=en
+* https://www.khanacademy.org/humanities/art-americas/new-spain/colonial-brazil/a/albert-eckhout-series-of-eight-figures
+
+* https://www.metmuseum.org/art/collection/search/431431
+
+matisse: 
+* https://www.moma.org/collection/works/79187
+* https://www.moma.org/audio/playlist/6/313
+
+DeBry
+* https://smarthistory.org/engravings-theodore-de-bry/
+* https://www.apollo-magazine.com/theodore-de-bry-america-complete-plates/
+
+Charles Christian Nahl, “Incident on the Chagres River” (1867)
+* https://calisphere.org/item/ark:/13030/tf658010cs/
+ 
+
+* https://editions.lib.umn.edu/panorama/article/mosquitoes-malaria-and-cold-butter/
+* https://brill.com/view/title/23390
+
+Great thesis on the topic!
+* https://researchonline.jcu.edu.au/42928/1/42928-meyer-2015-thesis.pdf
+And a paper on german colonial paintings 
+* https://www.jstor.org/stable/27668035?seq=1#metadata_info_tab_contents
+
+
+* https://artsandculture.google.com/asset/the-garden-of-eden-with-the-fall-of-man-brueghel-the-elder-jan/2AGWE_iY_xhcMg
+* https://artsandculture.google.com/asset/a-monkey-george-stubbs/xAEBfnkFVM3Tgw
+* https://artsandculture.google.com/asset/still-life-with-bowl-of-citrons-giovanna-garzoni/HAGymnbvN8kNeA
+* https://commons.wikimedia.org/wiki/File:Cannibalism_in_the_New_World,_from_Vespucci.jpg
+* https://faculty.evansville.edu/ck6/bstud/brazil.html
+
+von humboldt
+* https://www.dw.com/en/how-scientist-alexander-von-humboldt-put-spanish-south-america-on-the-global-map/a-46693502
+* https://www.smithsonianmag.com/smithsonian-institution/who-was-alexander-von-humboldt-180974473/
+
+paintings panama 
+* https://editions.lib.umn.edu/panorama/article/mosquitoes-malaria-and-cold-butter/
+
+
+writings
+* https://americainclass.org/the-columbian-exchange/
+* https://theconversation.com/explainer-the-myth-of-the-noble-savage-55316
+* https://en.wikipedia.org/wiki/Noble_savage 
+* https://www.unl.edu/rhames/ms/savage-prepub.pdf
+
+more on cannibalism in early accounts: * https://www.rmg.co.uk/stories/blog/library-archive/culture-clash-cannibalism-voyages-captain-cook
+
+
+### 31-Aug	Rain forests in High & Popular Culture
+
+Video Games: https://en.wikipedia.org/wiki/Amazon:_Guardians_of_Eden
+
+
+### 2-Sep	The Rain Forest in film
+
+https://monsterminions.wordpress.com/2012/07/24/kamongo-is-swahili-for-lungfish-a-scientist-looks-at-creature-from-the-black-lagoon-1954/
+
+https://weareorlando.co.uk/page13.php
+
+https://abcnews.go.com/Technology/wireStory/disney-adds-disclaimer-racist-stereotypes-67020530
+
+https://www.ferris.edu/HTMLS/news/jimcrow/links/essays/reversal.htm
+
+
+
+### 7-Sep	What is a Rain Forest?
+
+Relative Sizes of countries: https://thetruesize.com/
+
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1461-0248.2012.01771.x#:~:text=Vegetation%20ecologists%20have%20long%20noted,of%20tropical%20forest%20and%20savanna.
+
+[Nalini Nadkarni: Conserving the canopy | TED Talk](ted.com/talks/nalini_nadkarni_conserving_the_canopy)
+Forest Hieght MNaps Nasa https://visibleearth.nasa.gov/images/77637/global-forest-heights-take-two
+
+### 9-Sep	Patterns of Biodiversity I
+
+https://theconversation.com/africas-rainforests-are-different-why-it-matters-that-theyre-protected-77203
+
+GOOD PRIMER on diversity gradients!!! https://www.youtube.com/watch?v=YLt0-yoOKvw
+
+https://ourworldindata.org/biodiversity-and-wildlife
+
+
+### 14-Sep	Patterns of Biodiversity II
+
+### 16-Sep	Coevolution and the origins of tropical biodiversity
+
+
+### 21-Sep	Forest disturbance, dynamics, and maintenance of tropical biodiversity
+
+
+https://www.youtube.com/watch?v=vu96W5yKG1g
+
+
+### 23-Sep	Humans as part of rain forests
+
+
+
+
+- Indigenous
+https://www.npr.org/2019/01/22/685505116/killings-of-guatemalas-indigenous-activists-raise-specter-of-human-rights-crisis
+
+https://www.survivalinternational.org/news/12442
+
+
+    * https://en.wikipedia.org/wiki/Uncontacted_peoples
+    * https://pib.socioambiental.org/pt/P%C3%A1gina_principal
+    * https://terrasindigenas.org.br/pt-br/
+    * http://www.landmarkmap.org/map/#x=-102.46&y=13.47&l=3&a=community_FormalDoc%2Ccommunity_NoDoc%2Ccommunity_FormalClaim%2Ccommunity_Occupied%2Cindigenous_FormalDoc%2Cindigenous_NoDoc%2Cindigenous_FormalClaim%2Cindigenous_Occupied
+    * https://www.theamazonwewant.org/wp-content/uploads/2021/07/Chapter-9-in-Brief-Peoples-of-the-Amazon-and-European-colonization-16th-18th-centuries-Final.pdf
+    * https://www.theamazonwewant.org/wp-content/uploads/2021/07/Chapter-8-in-Brief-Peoples-of-the-Amazon-before-European-Colonization-FINAL.pdf
+    * [Tashka and Laura Yawanawá: The Amazon belongs to humanity -- let's protect it together | TED Talk](ted.com/talks/tashka_and_laura_yawanawa_the_amazon_belongs_to_humanity_let_s_protect_it_together)
+    * [Mark Plotkin: What the people of the Amazon know that you don't | TED Talk](ted.com/talks/mark_plotkin_what_the_people_of_the_amazon_know_that_you_don_t)
+
+
+
+- Languages
+
+    * Brasil; https://en.wikipedia.org/wiki/Languages_of_Brazil
+    * PNG https://en.wikipedia.org/wiki/Languages_of_Papua_New_Guinea
+    * Linguistic x Bio Diversity : https://www.pnas.org/content/109/21/8032
+    * https://wwf.panda.org/discover/knowledge_hub/where_we_work/amazon/about_the_amazon/people_amazon/
+
+- Cities / Urbanization
+    
+    * https://ourworldindata.org/urbanization
+    * https://en.wikipedia.org/wiki/Megacity
+    * https://www.pnas.org/content/109/40/16083
+    * https://link.springer.com/article/10.1023/A:1025962512653
+    * Tropical cities; https://theconversation.com/healthy-happy-and-tropical-worlds-fastest-growing-cities-demand-our-attention-112069
+
+- Population Sizes
+    * https://population.un.org/wup/Download/  
+    * Precolumbian vs. PostColumbian: 
+    https://news.mongabay.com/2005/10/pre-columbian-amazon-supported-millions-of-people/ 
+    * https://news.mongabay.com/2014/07/booming-populations-rising-economies-threatened-biodiversity-the-tropics-will-never-be-the-same/    
+    * Forest peoples Numbers Across the world: https://www.forestpeoples.org/sites/fpp/files/publication/2012/05/forest-peoples-numbers-across-world-final_0.pdf
+    * https://worldpopulationreview.com/country-rankings/tropical-countries
+    * The Tropics is home to over 40 per cent of the world’s population. Around 55 per cent of the world’s children live in the Tropics. By 2050, the tropical region will host more than half of the world’s population and two-thirds of its children.
+    * Between 1980 and 2018, the proportion of people living in tropical cities increased from 30% to 47%, whereas the world’s urbanization rate increased from 39% to 55%. In the Tropics, more people live in rural areas than in urban centers,
+    * Distribution of People on Earth: https://www.cell.com/one-earth/pdfExtended/S2590-3322(20)30425-5
+
+
+* State of the Tropics Report https://www.jcu.edu.au/state-of-the-tropics/publications/2014-state-of-the-tropics-report/2014-report/State-of-the-Tropics-2014-Full-Report.pdf
+
+
+
+### 28-Sep	Rain Forest Manipulation & the Paradox of Luxuriance
+
+
+fertilziation with dust from Sahara
+
+viz: https://svs.gsfc.nasa.gov/12772
+
+
+
+
+### 30-Sep	Forest-Savanna Boundaries and Tipping Points
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1461-0248.2012.01771.x#:~:text=Vegetation%20ecologists%20have%20long%20noted,of%20tropical%20forest%20and%20savanna.
+
+### 5-Oct	Rain Forests: Fact vs. Fiction
+
+https://www.theglobeandmail.com/news/world/amazon-rainforest-deforestation-crisis/article37722932/
+
+
+
+### 7-Oct	(BAD) RAIN FOREST MOVIE FEST 2021
+
+https://mynasadata.larc.nasa.gov/lesson-plans/investigating-deforestation-through-earth-systems-view-using-landsat
+
+https://filmschoolrejects.com/jon-voight-eaten-alive-how-much-of-anaconda-is-based-in-fact-1c332022104d/
+
+https://myfreebingocards.com/bingo-card-generator 
+
+### 12-Oct	Forest cover and forest loss I
+
+https://www.science.org/doi/10.1126/sciadv.abe1603
+
+https://ourworldindata.org/deforestation
+
+AMAZING VIDEO: https://www.youtube.com/watch?v=L9zWDtDKDS8
+
+https://www.nature.com/articles/ngeo756?proof=t
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0143886
+
+https://ourworldindata.org/grapher/commodity-deforestation-by-region?tab=chart&country=~Tropical
+
+https://pulitzercenter.org/stories/primary-forest-loss-congo-basin-escalates-2020
+
+https://www.nytimes.com/interactive/2020/10/02/opinion/amazon-under-threat.html
+
+https://www.nytimes.com/2021/03/31/climate/deforestation-amazon-brazil.html
+
+https://pulitzercenter.org/blog/rainforest-investigations-fellows-discuss-deforestation-podcasts
+
+### 14-Oct	Forest cover and forest loss II
+
+https://www.youtube.com/watch?v=L9zWDtDKDS8
+https://www.pri.org/stories/2020-09-08/how-indigenous-land-rights-could-help-save-brazilian-amazon-deforestation
+
+### 19-Oct	Mining, Timber
+https://pulitzercenter.org/pt-br/stories/terras-com-povos-indigenas-isolados-sao-alvo-de-metade-dos-pedidos-de-mineracao
+
+### 21-Oct	Agriculture and Fire
+
+https://www.nature.com/articles/ngeo756?proof=t
+
+https://www.youtube.com/watch?v=KJsAnupbpvs 
+https://news.mongabay.com/2018/07/rspo-fails-to-deliver-on-environmental-and-social-sustainability-study-finds/
+
+
+https://www.nytimes.com/2020/10/02/opinion/amazon-rainforest-fire-prevention.html
+
+https://www.nytimes.com/2020/05/27/opinion/amazon-bolsonaro-deforestation.html
+
+https://www.nytimes.com/2019/08/27/world/africa/congo-angola-rainforest-fires.html
+
+
+
+### 26-Oct	Climate change I
+* plotting climate cdata: https://www.climate.gov/maps-data/dataset/temperature-and-precipitation-trends-graphing-tool
+* Climate / Temp / Precip Visualizations https://climatereanalyzer.org/clim/animations/
+
+
+https://www.climateinteractive.org/tools/guided-assignment/
+
+
+
+https://www.nytimes.com/2019/08/30/world/americas/amazon-rainforest-fires-climate.html
+
+https://www.rainforesttrust.org/wp-content/uploads/Final-Climate-Change-and-Forests.pdf
+https://www.climateinteractive.org/tools/guided-assignment/
+https://serc.carleton.edu/serc/site_guides/climate_activities.html
+### 28-Oct	Climate change II
+
+https://serc.carleton.edu/earthlabs/carbon/lab_4.html
+
+https://www.nytimes.com/2014/04/24/science/earth/study-finds-less-green-in-the-congo-rain-forest.html
+
+https://ca.usembassy.gov/tag/jonathan-pershing/
+
+HOW TO SAVE THE RAINFOREST
+
+https://rainforests.mongabay.com/1001.htm
+
+https://rainforestfoundation.org/engage/10-things-you-can-do/
+
+https://www.weforum.org/agenda/2020/12/4-vital-steps-protect-remaining-rainforests/
+
+https://www.wwf.org.uk/updates/ways-help-amazon-rainforest
+
+https://www.rainforest-alliance.org/everyday-actions/
+
+https://news.mongabay.com/2020/04/investing-in-amazon-rainforest-conservation/
+
+
+### 2-Nov	Consumer choices
+
+tracking products linked to deforestaation
+https://twitter.com/rainforest_rin/status/1434808032500850692?s=11
+
+https://nationalzoo.si.edu/scbi/migratorybirds/research/cacao/ruf.cfmhttps://www.nytimes.com/2021/08/11/magazine/indonesia-rainforest-coffee.html?searchResultPosition=2
+
+https://www.washingtonpost.com/graphics/2019/national/climate-environment/mars-chocolate-deforestation-climate-change-west-africa/
+
+https://www.nytimes.com/2019/09/05/world/americas/h-m-leather-brazil-amazon-fires.html
+
+https://www.rainforest-alliance.org/find-certified/
+
+https://e360.yale.edu/features/the-real-price-of-a-chocolate-bar-west-africas-rainforests
+https://www.worldcocoafoundation.org/initiative/cocoa-forests-initiative/
+https://www.climate.gov/news-features/climate-and/climate-chocolate
+
+https://theconversation.com/chocolate-fix-how-the-cocoa-industry-could-end-deforestation-in-west-africa-161953 
+
+https://www.climate.gov/news-features/climate-and/climate-chocolate
+
+### 4-Nov	DURIAN FEST 2021
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12712
+
+https://www.nytimes.com/2019/12/04/science/bats-durians-indonesia.html#commentsContainer
+
+
+### 9-Nov	International frameworks
+
+https://www.congress.gov/bill/116th-congress/house-bill/4263/text?r=9&s=1
+
+https://www.leahy.senate.gov/imo/media/doc/Letter%20to%20Biden%20re%20Amazon%204-15-21.pdf
+
+https://www.nytimes.com/2019/07/19/opinion/amazon-rainforest-deforestation.html
+
+https://apnews.com/article/joe-biden-donald-trump-brazil-deforestation-climate-b25195150ea4c20343e4c61581341624
+
+http://ceed.org/us-in-the-hot-seat-on-redd/
+
+https://ca.usembassy.gov/tag/jonathan-pershing/
+
+### 16-Nov	Protected areas
+https://www.theamazonwewant.org/wp-content/uploads/2021/08/Chapter-16-in-Brief-Final.pdf
+
+https://www.coons.senate.gov/news/press-releases/coons-portman-lead-bipartisan-group-of-colleagues-in-introducing-conservation-legislation-to-protect-tropical-forests-and-coral-reef-ecosystems
+
+https://www.youtube.com/watch?v=7Hhmqi_x14k
+
+https://earthjustice.org/blog/2020-february/she-grew-up-in-the-amazon-and-now-shes-fighting-for-its-life 
+
+https://pulitzercenter.org/stories/brazils-bid-outsource-amazon-conservation-finds-few-takers
+
+
+### 18-Nov	Forest restoration & regeneration
+
+https://www.rolex.org/rolex-awards/environment/laury-cullen-jr
+[Shubhendu Sharma is reforesting the world, one small patch at a time | TED Blog](blog.ted.com/shubhendusharma)
+
+[Sebastião Salgado at TED2013: Why we must rebuild our forests | TED Blog](blog.ted.com/why-we-must-rebuild-our-forests-sebastiao-salgado-at-ted2013)
+
+
+
+### 30-Nov	Local Initiatives, Empowered Communities
+https://www.nytimes.com/2020/01/28/climate/deforestation-central-african-republic.html 
+https://forestsnews.cifor.org/71988/on-the-road-to-sustainable-palm-oil-production-in-cameroon?fnl=en
+
+
+https://news.mongabay.com/2021/08/the-women-on-the-front-lines-of-safeguarding-the-amazon/
+
+
+
+[Topher White: What can save the rainforest? Your used cell phone | TED Talk](ted.com/talks/topher_white_what_can_save_the_rainforest_your_used_cell_phone)
+
+
+
+### 2-Dec	Philanthropy, NGOs, and Activism
+
+https://www.vox.com/the-goods/2019/9/16/20863152/save-the-rainforest-environmentalism-conservation
+
+
+### 7-Dec	Rain Forest Headlines
+https://pulitzercenter.org/people/madeleine-ngeunga
+
+https://pulitzercenter.org/people/andrew-lehren
+
+https://pulitzercenter.org/people/manuela-andreoni
+### 9-Dec	What will we do?
+
+
+How far have we come? this is from 1990: https://www.c-span.org/video/?11586-1/tropical-rain-forest-preservation
+
+
+
+Projects
+
+https://www.tiktok.com/tag/amazonrainforest?lang=en&is_copy_url=1&is_from_webapp=v1
+
+rain forest legos
+save your mascot
+
+save tyour brand (bai)

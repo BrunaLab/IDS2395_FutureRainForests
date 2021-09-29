@@ -1,0 +1,77 @@
+---
+title: 'IDS 2935 - Historical Narratives: In-class Activity'
+author: "Emilio M. Bruna"
+date: "`r format(Sys.time(), '%Y')`"
+mainfont: SourceSansPro
+geometry: margin=1in
+fontsize: 12pt
+linkcolor: darkmidnightblue
+urlcolor: darkmidnightblue
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyfoot{}
+- \fancyhead[R]{Lit and Poetry (In-class), p. \thepage}
+- \fancyhead[L]{IDS 2935 - Rain Forests (`r format(Sys.time(), '%Y')`)}
+- \usepackage[default]{sourcesanspro}
+- \usepackage{parskip}
+- \usepackage{xcolor}
+- \AtBeginDocument{\let\maketitle\relax}
+- \usepackage{sectsty} \sectionfont{\centering}
+- \usepackage{titlesec}
+- \usepackage{sectsty} \sectionfont{\centering\color{darkmidnightblue}}
+- \usepackage{sectsty} \subsectionfont{\color{darkmidnightblue}}
+- \titlespacing{\section}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsubsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \definecolor{darkcerulean}{rgb}{0.03, 0.27, 0.49}
+- \definecolor{darkmidnightblue}{rgb}{0.0, 0.2, 0.4}
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  rmdformats::robobook: default
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Historical Narratives and the Depiction of Tropical Rain Forests and People    
+\vspace{0.3cm}
+Whether you realize it or not, every time someone reads a passage of text they are breaking it apart into its unique elements - words - and then analyzing what the words and their arrangement into sentences to infer what the author hopes to convey in the passage. This interpretation will be shaped in part by one's personal experiences and the cultural and sociopolitical moment in which they are read.  
+
+As readers we usually do this *"Text Analysis"* subconsciously, but we can also step back and do it explicitly: we can extract keywords from the text and analyze them to draw conclusions about the messages conveyed by an author's choices. For instance, we can analyze if the words used in a passage have meanings that are typically "positive", "negative", or "neutral", and from that conclude what a reader of a passage would conclude about the subject matter This is called *Sentiment Analysis*
+
+**Today we're going to do some simple Sentiment Analysis on narratives written by Europeans visiting (i.e., 'exploring') tropical rain forests.** We'll then see if we can see some of the same themes reflected in poems and fiction set in rain forests.  Finally, we will move to the visual arts, again to see if we can identify similar themes in paintings created over the course of 200 years.
+
+### Instructions - Part 1 (Do in class)
+
+1. Read each passage. As you read, mark words or phrases that stand out to you (e.g., adjectives describing places, people, or behavior). 
+
+2. Write these words down in a column on a piece of paper or enter them into a spreadsheet. Be sure to note which text they came from (Text 1, Text 2, etc.)
+
+3. Assign each of these terms a value of 'positive (+)', 'negative (-)', or 'neutral (0)'.
+
+4. What was the overall "score" of the passage? 
+
+5. Finally, was there anything that *wasn't* said?    
+
+4. What would you conclude about Tropical Rain Forests or the people described if you were reading this passages *at the time it were written*? 
+
+5. Once you have read and scored all the passages, take a step back and identify the major themes (= *narratives*) about Tropical Rain Forests that emerge from these passages.   
+
+6. PS note that not all of the passages are "passages" - some are the drawings that were published in the books. 
+
+
+**<<revision for v 2.0; we got through only part 1. if you delete the lecture slide and do it as a video, you might get through the lit. but I rec doing part 1 only, then doing the lit/poetry as part of culture.>>**
+
+### Instructions - Part 2 (Do on your own and bring to the next session)
+
+1. Now read each passage from fiction or poem.
+
+2. What "narrative" does this passage draw from? Does it reinforce or subvert this narrative?  Write a brief response for each one.
+

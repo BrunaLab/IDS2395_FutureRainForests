@@ -1,0 +1,83 @@
+---
+title: 'IDS 2935 - What is a Tropical Rain Forest?'
+author: "Emilio M. Bruna"
+date: "`r format(Sys.time(), '%Y')`"
+mainfont: SourceSansPro
+geometry: margin=1in
+fontsize: 12pt
+linkcolor: darkmidnightblue
+urlcolor: darkmidnightblue
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyfoot{}
+- \fancyhead[R]{What is a TRF?, p. \thepage}
+- \fancyhead[L]{IDS 2935 - Rain Forests (`r format(Sys.time(), '%Y')`)}
+- \usepackage[default]{sourcesanspro}
+- \usepackage{parskip}
+- \usepackage{xcolor}
+- \AtBeginDocument{\let\maketitle\relax}
+- \usepackage{sectsty} \sectionfont{\centering}
+- \usepackage{titlesec}
+- \usepackage{sectsty} \sectionfont{\centering\color{darkmidnightblue}}
+- \usepackage{sectsty} \subsectionfont{\color{darkmidnightblue}}
+- \titlespacing{\section}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsubsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \definecolor{darkcerulean}{rgb}{0.03, 0.27, 0.49}
+- \definecolor{darkmidnightblue}{rgb}{0.0, 0.2, 0.4}
+output: html_document
+#   output:
+#   pdf_document: default
+#   html_document:
+#     df_print: paged
+#   rmdformats::robobook: default
+# editor_options: 
+#   markdown: 
+#     wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Review: _What_ are rain forests?
+
+1. Officially: Found between the Tropics of Cancer and Capricorn, but...
+
+2. Rain: At least 2 m (79 inches) and as much as 10 m (394 inches) of rain per year.
+
+3. Temperature: Average daily temperatures range from 20°C (68°F) to 25°C (77°F).
+
+* Note: There is seasonality...but not in temperature. It's seasonality of rain fall.
+Offically there are actually rain forests, moist forests, et5c. The ammount of rain, seasonality of rain all determine this, and as a result also have some trees that are [deciduous](https://www.flickr.com/photos/cifor/50480154283/). Here is a better [close-up](here (https://www.flickr.com/photos/cifor/49666688962/)
+
+
+4. Tall canopy of 45-55 m with occasional "emergent" trees of 75-80 m
+* Century Tower: is 48 m (157 ft)
+* Tallest tree: detected with Light Detection and Ranging (LiDAR) survey in the Danum Valley Conservation Area (DVCA) in Sabah.  It was measured by climber Unding Jami with a tape measure as being 100.8 meters tall. 
+
+**LIDAR SCAN**
+<div class="sketchfab-embed-wrapper"> <iframe title="TLS scan of Menara" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/03a6159372294c5288f832f7fe1d2fda/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/tls-scan-of-menara-03a6159372294c5288f832f7fe1d2fda?utm_medium=embed&utm_campaign=share-popup&utm_content=03a6159372294c5288f832f7fe1d2fda" target="_blank" style="font-weight: bold; color: #1CAAD9;"> TLS scan of Menara </a> by <a href="https://sketchfab.com/ashenkin?utm_medium=embed&utm_campaign=share-popup&utm_content=03a6159372294c5288f832f7fe1d2fda" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Alexander Shenkin </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=03a6159372294c5288f832f7fe1d2fda" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+
+**LIDAR+UAV SCAN**
+<div class="sketchfab-embed-wrapper"> <iframe title="LiDAR + UAV model of Menara" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/b828f4569ab14188b07c9609511330b7/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/lidar-uav-model-of-menara-b828f4569ab14188b07c9609511330b7?utm_medium=embed&utm_campaign=share-popup&utm_content=b828f4569ab14188b07c9609511330b7" target="_blank" style="font-weight: bold; color: #1CAAD9;"> LiDAR + UAV model of Menara </a> by <a href="https://sketchfab.com/ashenkin?utm_medium=embed&utm_campaign=share-popup&utm_content=b828f4569ab14188b07c9609511330b7" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Alexander Shenkin </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=b828f4569ab14188b07c9609511330b7" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+[The canopy at the Forest Research Institute Malaysia with Crown Shyness](https://commons.wikimedia.org/w/index.php?curid=5188293)(Photo by Mikenorton; Own work, CC BY-SA 3.0).
+
+5. Structural Complexity: Layers, Canopy, Subcanopy, Understory
+
+6. Diversity of Forms: Palms, Trees, Vines/Lianas, Shrubs, Herbs, Bamboos, Epiphytes
+
+7. Understory is generally cool and dark, with sunflecks
+
+
+
+<!-- 9.  What do you think limits their distribution? (put another way, why don't we have Tropical Rain Forests in Gainesville? Or Michigan? Or London?) -->
+
+<!-- In a rain forest, is rain going to be limited? -->
+<!-- For these big trees, is light the limiting factor? What is? -->
+<!-- What about for understory plants?  -->
+
+

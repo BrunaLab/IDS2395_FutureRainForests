@@ -1,0 +1,99 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+title: "IDS_2935: ------"
+date: "updated: `r Sys.Date()`"
+mainfont: SourceSansPro
+geometry: margin=1in
+fontsize: 12pt
+linkcolor: darkmidnightblue
+urlcolor: darkmidnightblue
+header-includes:
+- \usepackage{fancyhdr}
+- \usepackage[default]{sourcesanspro}
+- \usepackage[T1]{fontenc}
+- \pagestyle{fancy}
+- \fancyfoot{}
+- \fancyhead[R]{Class Outline, p. \thepage}
+- \fancyhead[L]{IDS 2935 - Rain Forests (`r format(Sys.time(), '%Y')`)}
+- \usepackage[default]{sourcesanspro}
+- \usepackage{parskip}
+- \usepackage{xcolor}
+- \AtBeginDocument{\let\maketitle\relax}
+# - \usepackage{sectsty} \allsectionsfont{\raggedright}
+- \usepackage{sectsty} \sectionfont{\centering}
+- \usepackage{titlesec}
+- \usepackage{sectsty} \sectionfont{\centering\color{darkmidnightblue}}
+- \usepackage{sectsty} \subsectionfont{\color{darkmidnightblue}}
+- \titlespacing{\section}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsubsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \definecolor{darkcerulean}{rgb}{0.03, 0.27, 0.49}
+- \definecolor{darkmidnightblue}{rgb}{0.0, 0.2, 0.4}
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  rmdformats::robobook: default
+---
+
+## Pre-Class Preparation (Instructor):  
+
+1. Email Reminder
+2.
+3. **Bring to Class:**  
+*
+*
+*
+
+## Objectives and Competencies:   
+
+1.
+2.
+3.
+
+
+## Pre-class Preparation (Students):
+
+
+### **Readings**
+1.
+2.
+3.
+
+### **Online Lectures:**  
+
+1.
+2.
+3.
+        
+
+## Class Outline
+
+### **Topic 1 Overview:** 
+
+### Breakout
+
+**Breakout: ** 
+
+
+### Break 
+
+### Return and discuss breakout results
+
+1. **Returning results & Take-home message** 
+
+2. **Take-home message:** Reinforce value of paperless data collection
+      
+### Free Time
+
+There are_____ min remaining that can be used to -----
+
+# Additional Resources and Reading Mateirals
+
+1.
+2.
+3.
+

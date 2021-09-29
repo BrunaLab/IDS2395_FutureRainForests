@@ -1,0 +1,108 @@
+---
+title: 'IDS 2935 - Disturbances in Tropical Forests: In-class Activity'
+author: "Emilio M. Bruna"
+date: "`r format(Sys.time(), '%Y')`"
+mainfont: SourceSansPro
+geometry: margin=1in
+fontsize: 12pt
+linkcolor: darkmidnightblue
+urlcolor: darkmidnightblue
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyfoot{}
+- \fancyhead[R]{In-Class: Disturbances, p. \thepage}
+- \fancyhead[L]{IDS 2935 - Rain Forests (`r format(Sys.time(), '%Y')`)}
+- \usepackage[default]{sourcesanspro}
+- \usepackage{parskip}
+- \usepackage{xcolor}
+- \AtBeginDocument{\let\maketitle\relax}
+- \usepackage{sectsty} \sectionfont{\centering}
+- \usepackage{titlesec}
+- \usepackage{sectsty} \sectionfont{\centering\color{darkmidnightblue}}
+- \usepackage{sectsty} \subsectionfont{\color{darkmidnightblue}}
+- \titlespacing{\section}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsubsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \definecolor{darkcerulean}{rgb}{0.03, 0.27, 0.49}
+- \definecolor{darkmidnightblue}{rgb}{0.0, 0.2, 0.4}
+output: html_document
+# output:
+#   pdf_document: default
+#   html_document:
+#     df_print: paged
+#   rmdformats::robobook: default
+# editor_options: 
+#   markdown: 
+#     wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Mechanisms of Species Coexistance in Tropical Forests.
+\vspace{0.3cm}
+The Principle of Competitive Exclusion (Gause 1934 aka Gause's Law) states that two species cannot inhabit the same niche; one will eventually and consistently out-compete the other. How then do so many species manage to coexist in tropical forests? Today we will brainstorm potential mechanisms that make it possible to 'circumvent' Gause's principle of competitive exclusion. We will do so by looking at the conditions required for the PCE, and then coming up with ways that one or more of them can be violated in tropical rain forests such that they allow for species to coexist. (*Spoiler alert: *these will become important later when learn about species extinctions in tropical forests).
+
+## The Conditions of the Principle of Competitive Exclusion
+
+1) Growth of both species is limited by the same resource.
+2) All species – both rare & common ones – have similar rates of birth, growth, and death in a given environment. 
+3) Species have the opportunity to compete with each other.
+4) The environment is constant – both across space and time
+5) It takes time for exclusion to take place...so enough time has passed for that to happen.
+
+**Instructions:**
+
+With your group (or individually if you can't make it to class), can you think of one or more ways that each Condition could be violated in a tropical rain forest? Start by stating the opposite and coming up with examples. I've provided some hints / reminders from the reading to get you started for each one:
+
+**1) Growth of both species is limited by the same resource.** *What limits the growth of plants and animals in Tropical Rain Forests, and how can competition for this resource be minimized?*   
+
+**2 The environment is constant – both across space and time.** *Are environmental conditions in Tropical Rain Forests truly homogenous across the landscape or consistent over time? Think especially about the factors in #1 above.* 
+
+
+**3) It takes time for exclusion to take place...so enough time has passed for that to happen.** *How long do individuals of tropical species live? Do the conmditions for PCE hold for this long?*
+
+
+**4) Species have the opportunity to compete with each other.** *Based on the graph we made in class last week, do you think this is true? Are there ways that species can avoid competing with each other?*
+
+The last one is the toughest one. The PCE implies that individuals of all species have similar rates of birth, growth, and death in a given environment. With that in mind:
+
+**5) The likelihood of an individual surviving, growing, or reproducing is independent of how many other individuals of the same species are found nearby (i.e., there is no "density dependence")**.  *Can you imagine situations where being surrounded by others of the same species would be beneficial to your growth or survival? Situations where it would be detrimental?*
+
+
+
+
+**When done, please submit the responses via Canvas. And if you need some hints, check these out: **
+
+[Planet Earth – Jungles](http://naturedocumentaries.org/6813/planet-earth-jungles-bbc/) (BBC, 2006). *All of this is amazing, but for today's session the part from 4:45-10:45 is especially relevant.*
+
+[Photo from NOAA](https://www.bwsailing.com/cc/wp-content/uploads/2016/05/hht.jpg) and [Animation by R. Rohde/Berkeley Earth](https://www.youtube.com/watch?v=lRCgxo_0I1Y&t=7s) of Tropical Cyclone Tracks and Intensity since 1950
+
+[Video of Interview with Maria Uriarte](Climate Change and the Re-Greening of Puerto Rico), a Professor at Columbia University, about her research in Puerto Rico.
+
+[Oxbow lake formation](https://gfycat.com/zestyclassicdamselfly) - El Sira, Peru  
+
+[NASA Global Landslide Catalog](https://www.nasa.gov/feature/goddard/global-landslide-catalog-aids-view-from-space)
+
+[Wind Bursts in Tropical Forests](https://maaproject.org/2017/hurricane-winds-trends/)
+
+[The Amazon's Flood Transitions](https://video.gpb.org/video/amazons-flood-transitions-lic3va/) from Georgia Public Broadcasting/GPB
+
+for #5, [this picture of an agouti](https://www.wired.com/2016/08/rodent-unusual-size-will-not-assault-promise/) by Christian Ziegler. And this picture I took on the UF campus just outside this building.
+
+[Visual Soundscapes - Jungles](https://www.youtube.com/watch?v=yVOw5fsUCfQ) (Planet Earth II | BBC America)
+
+[Our Planet | Jungles ](https://www.youtube.com/watch?v=um2Q9aUecy0) (YouTube/Netflix)
+http://naturedocumentaries.org/6813/planet-earth-jungles-bbc/
+
+
+**Submit your answers to these questions and your plot via canvas. **
+
+
+
+
+
+
+

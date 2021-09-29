@@ -1,0 +1,95 @@
+---
+title: 'IDS 2935 - TRF Quizbowl'
+author: "Emilio M. Bruna"
+date: "`r format(Sys.time(), '%Y')`"
+mainfont: SourceSansPro
+geometry: margin=1in
+fontsize: 12pt
+linkcolor: darkmidnightblue
+urlcolor: darkmidnightblue
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyfoot{}
+- \fancyhead[R]{What is a TRF?, p. \thepage}
+- \fancyhead[L]{IDS 2935 - Rain Forests (`r format(Sys.time(), '%Y')`)}
+- \usepackage[default]{sourcesanspro}
+- \usepackage{parskip}
+- \usepackage{xcolor}
+- \AtBeginDocument{\let\maketitle\relax}
+- \usepackage{sectsty} \sectionfont{\centering}
+- \usepackage{titlesec}
+- \usepackage{sectsty} \sectionfont{\centering\color{darkmidnightblue}}
+- \usepackage{sectsty} \subsectionfont{\color{darkmidnightblue}}
+- \titlespacing{\section}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsubsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \definecolor{darkcerulean}{rgb}{0.03, 0.27, 0.49}
+- \definecolor{darkmidnightblue}{rgb}{0.0, 0.2, 0.4}
+output: html_document
+#   output:
+#   pdf_document: default
+#   html_document:
+#     df_print: paged
+#   rmdformats::robobook: default
+# editor_options: 
+#   markdown: 
+#     wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+And that is our transition to what's next...what factors limit the global distribution of these forests? Put another way, why are there no rain forests in Gainesville? Or Michigan? Or London?
+
+
+
+1. Latitude and Longitude are lines used to map the precise location places on Earth,. What is the difference between latitude and longitude?
+
+2. What is this line called and what is it's latitude in degrees?
+
+3. What are these lines called, what is their latitude (to the nearest degree)?
+
+4. What makes the area between the tropics of Cancer and Capricorn astronomically unique? 
+
+5. A hectare is a unit of area in the metric system? What is the area of a hectare in m2, and how many American football fields is this equal to?
+* 10K m2, ~2.5 football fields
+
+6. What is the area of the state of Florida? You may give the answer in Ha or km2 
+
+* 53,625 sq mi 
+* 138,887 km2
+* 13.8887 million ha
+
+7. How much rain forest is there in the world? Area in Ha, km2, States of Florida, or % of the earth surface (must be +/- 5%)
+
+* 1.84 billion hectares
+* 18.4 million km2
+* 132.48 Floridas
+* 2.27x the Continental USA (Area of the Continental USA = 8.1 million km2)
+
+
+8. What is the annual precipitation in Gainesville? 
+<!-- A lot of rain (rainy season) falls in the months: June, July, August, September and October. -->
+<!-- On average, September is the wettest month with 7.52 inch (191.0 mm) of precipitation. -->
+<!-- On average, November is the driest month with 2.20 inch (56.0 mm) of precipitation. -->
+The average amount of annual precipitation is: 53.50 inch (1359.0 mm)
+
+9. What are the typical max  temperature in Gainesville?
+
+On average, the warmest month is July with 91.76° Fahrenheit (33.2° Celsius).
+<!-- On average, the coolest month is January with 65.3° Fahrenheit (18.5° Celsius). -->
+<!-- The average annual maximum temperature is: 79.7° Fahrenheit (26.5° Celsius) -->
+<!-- The average annual minimum temperature is: 59° Fahrenheit (15.0° Celsius) -->
+
+
+OK, that's it for Quiz Bowl. 
+
+lets watch these videos or precip and temp and how they vary globally and annually 
+
+
+
+
+<!-- [Forest Height Map](https://eoimages.gsfc.nasa.gov/images/imagerecords/77000/77637/forestheight_ice_2005_lrg.jpg)  -->
+<!-- Bonus: Try this video of a [forest in Costa Rica](https://www.youtube.com/watch?v=AhISnxlonxI&t=9s), complete with the dulcet tones of Richard Attenborough's narration.  -->
