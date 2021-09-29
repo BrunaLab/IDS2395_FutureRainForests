@@ -1,0 +1,136 @@
+---
+title: "Assignment 1 - Tropical Tropes Checklist"
+author: "Emilio M. Bruna"
+date: "`r format(Sys.time(), '%Y')`"
+web: www.BrunaLab.org
+github: embruna
+twitter: https://twitter.com/BrunaLab
+phone: (352) 514-3935
+email: embruna@ufl.edu
+geometry: margin=1in
+fontsize: 12pt
+linkcolor: darkmidnightblue
+urlcolor: darkmidnightblue
+site: bookdown::bookdown_site
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyfoot{}
+- \fancyhead[R]{Assignment 1 - Tropical Tropes Checklist, p. \thepage}
+- \fancyhead[L]{IDS 2935 - Rain Forests (`r format(Sys.time(), '%Y')`)}
+- \usepackage[default]{sourcesanspro}
+- \usepackage{parskip}
+- \usepackage{xcolor}
+- \AtBeginDocument{\let\maketitle\relax}
+# - \usepackage{sectsty} \allsectionsfont{\raggedright}
+- \usepackage{sectsty} \sectionfont{\centering}
+- \usepackage{titlesec}
+- \usepackage{sectsty} \sectionfont{\centering\color{darkmidnightblue}}
+- \usepackage{sectsty} \subsectionfont{\color{darkmidnightblue}}
+- \titlespacing{\section}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \titlespacing{\subsubsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \definecolor{darkcerulean}{rgb}{0.03, 0.27, 0.49}
+- \definecolor{darkmidnightblue}{rgb}{0.0, 0.2, 0.4}
+
+
+# output: pdf_document
+classoption: landscape
+output: pdf_document
+  # word_document: default
+# output: html_document
+# weight: 5
+    # df_print: paged
+---
+
+
+```{r setup_syllabus, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(kableExtra)
+library(here)
+```
+
+### Note: Most of these tropes come from the TV Tropes Website ([https://tvtropes.org](https://tvtropes.org/)). Below is a summary of each trope; follow the link to see more details on the trope, examples, and and links to related ones.
+
+```{r tropes_table_edit, echo=FALSE,message = FALSE,warning=FALSE, results=FALSE}
+tropes<-readxl::read_excel("./assignments/01_movies/tropes.xlsx") %>% 
+  select(-Category) %>% 
+  mutate(ID = row_number(), .before=Trope)
+
+
+code <- strsplit(tropes$Trope, " ")
+code<-sapply(code, function(x){
+      toupper(paste(substring(x, 1, 1), collapse = ""))
+  })
+code<-as.data.frame(code)
+code <- code %>% 
+  mutate(ID = row_number())
+str(code)
+str(tropes)
+tropes <- left_join(code,tropes) %>% 
+  select(ID, Trope, Code=code,Description,Link)
+
+
+tropes <- tropes %>%
+  mutate(across(everything(), ~replace_na(.x, "")))
+```
+
+
+```{r tropes_table, echo=FALSE,message = FALSE,warning=FALSE}
+# tropes %>% group_by(Category) %>% summarise(n())
+
+
+# kbl(movies,
+#       # digits = 2,
+#       longtable=TRUE,
+#       align="l",
+#       format="latex",
+#       row.names = FALSE,
+#       escape= T,
+#       booktabs=T,
+#       linesep = "",
+#       ) %>%
+
+# kable(tropes, "html",
+
+
+# for pdf only: 
+tropes<-tropes %>% select(-Link)
+  
+kable(tropes, "latex",
+  booktabs = TRUE,
+  # caption = "Test",
+  longtable = TRUE
+) %>%
+#    kable_styling(
+#     position = "left",
+#     bootstrap_options = c("hover","striped"),
+#     latex_options = c("scale_down")
+# ) %>%
+  
+  kable_paper("striped",
+    
+    latex_options = c("hold_position", "repeat_header", "scale_down"),
+    # font_size = 9) %>% # USE for PDF
+   font_size = 10 ) %>%
+  pack_rows("Action, Plot, Mood, Props", 1,30, label_row_css = "background-color: #483D8B; color: #fff;") %>%
+  pack_rows("Characters", 31, 51, label_row_css = "background-color: #483D8B; color: #fff;") %>%
+  pack_rows("Dialogue", 52, 54, label_row_css = "background-color: #483D8B; color: #fff;") %>%
+  pack_rows("Flora and Fauna", 55, 79, label_row_css = "background-color: #483D8B; color: #fff;") %>%
+  pack_rows("Settings, Geography, and Culture", 80, 96, label_row_css = "background-color: #483D8B; color: #fff;") %>%
+  row_spec(1:nrow(tropes), hline_after = TRUE) %>%
+  column_spec(2, width = "19em") %>%
+  column_spec(4, width = "40em") %>%
+  column_spec(5, width = "5em") 
+  # # column_spec(4, width = "6em") %>%
+  # #   column_spec(5, width = "6em") %>%
+  # #   # column_spec(4:6, width = "4em") %>%
+  # # #   column_spec(4, width = "3em")
+  # # #   row_spec(0,hline_after = F, bold=T) %>%
+  # # #   row_spec(c(1:5),hline_after = T) %>%
+  # row_spec(0, bold = T, color = "#483D8B", hline_after = F) %>%
+  # row_spec(42, hline_after = T) %>%
+  # row_spec(4, hline_after = T)
+#   add_indent(6)
+```
