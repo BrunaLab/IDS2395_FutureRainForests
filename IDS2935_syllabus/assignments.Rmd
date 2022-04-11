@@ -52,6 +52,7 @@ library(kableExtra)
 <!-- \blandscape -->
 <!-- \newpage -->
 
+
 ```{r slo1, echo=FALSE,message = FALSE,warning=FALSE}
 assignments <- read_csv("./assignments.csv") 
 
